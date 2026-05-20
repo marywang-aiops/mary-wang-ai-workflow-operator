@@ -21,6 +21,11 @@ The goal is simple: help people turn messy AI experiments into usable systems.
 
 Contact: 939172168@qq.com
 
+Links:
+
+- GitHub: https://github.com/marywang-aiops/mary-wang-ai-workflow-operator
+- Service page: https://marywang-aiops.github.io/mary-wang-ai-workflow-operator/
+
 ## GitHub Topics
 
 - ai-workflow
@@ -31,4 +36,3 @@ Contact: 939172168@qq.com
 - openclaw
 - templates
 - workflow-audit
-

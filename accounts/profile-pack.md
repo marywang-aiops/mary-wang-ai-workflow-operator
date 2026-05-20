@@ -56,11 +56,11 @@ Fill these after registration:
 
 | Platform | URL |
 | --- | --- |
-| GitHub |  |
+| GitHub | https://github.com/marywang-aiops/mary-wang-ai-workflow-operator |
 | Reddit |  |
 | Xiaohongshu |  |
 | Zhihu |  |
-| Service page |  |
+| Service page | https://marywang-aiops.github.io/mary-wang-ai-workflow-operator/ |
 
 ## First Public Intro
 
@@ -81,4 +81,3 @@ English:
 Chinese:
 
 `需要 48 小时 AI 工作流审计，可以发邮件到 939172168@qq.com。确认范围后可使用微信/支付宝付款。`
-

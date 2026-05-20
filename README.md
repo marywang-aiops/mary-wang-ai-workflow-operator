@@ -8,6 +8,11 @@ Core promise:
 
 This repository is the public proof base for the Mary Wang revenue sprint. It contains the brand, paid offers, proof assets, content drafts, lead tracking, a simple service page, and a safe AI workflow audit skill template.
 
+Live links:
+
+- GitHub: [marywang-aiops/mary-wang-ai-workflow-operator](https://github.com/marywang-aiops/mary-wang-ai-workflow-operator)
+- Service page: [Mary Wang AI Workflow Audit](https://marywang-aiops.github.io/mary-wang-ai-workflow-operator/)
+
 ![Mary Wang service page preview](site/preview-desktop.png)
 
 ## First Paid Offer
