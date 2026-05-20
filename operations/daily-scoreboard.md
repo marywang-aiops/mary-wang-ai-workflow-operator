@@ -4,7 +4,7 @@ Use one row per day.
 
 | Date | Sourced | Public Replies | Engaged | Qualified | Audit Offered | Paid | Revenue | Best Channel | Adjustment |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
-| 2026-05-20 | 6 | 6 | 0 | 0 | 0 | 0 | 0 | GitHub + Reddit | Reddit is now active; continue value-first comments without links unless directly useful |
+| 2026-05-20 | 8 | 6 | 0 | 0 | 0 | 0 | 0 | GitHub + Reddit | Reddit is now active; continue value-first comments without links unless directly useful |
 
 ## Daily Review Questions
 
