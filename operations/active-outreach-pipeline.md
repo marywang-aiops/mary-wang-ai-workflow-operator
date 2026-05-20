@@ -124,6 +124,7 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-05-20 | GitHub | https://github.com/activepieces/activepieces/issues/13231#issuecomment-4494341599 | AI workflow engineer opportunity |
 | 2026-05-20 | GitHub | https://github.com/ATHARVA262005/ai-audit-shelf/issues/1#issuecomment-4495048118 | AI audit/versioning docs contribution angle |
 | 2026-05-20 | GitHub | https://github.com/hkuwana/hiroPersonalSite/issues/74#issuecomment-4495050387 | AI workflow audit offer positioning |
+| 2026-05-20 | Reddit | https://www.reddit.com/r/n8n_ai_agents/comments/1tfkf0j/comment/omtg6e2/ | Paid-service path for small-business AI automation |
 
 ## Revenue Rule
 

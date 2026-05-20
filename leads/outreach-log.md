@@ -16,7 +16,10 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
 - Added two more GitHub comments to reach 5 useful public replies:
   - `ATHARVA262005/ai-audit-shelf#1`
   - `hkuwana/hiroPersonalSite#74`
-- Next manual/account step: register or log into Reddit and Xiaohongshu as Mary Wang for non-GitHub outreach.
+- Reddit account is now usable in the Mary Chrome profile.
+- Posted first Reddit value reply, without a link or sales CTA:
+  - `r/n8n_ai_agents`: answered a learner asking how to turn small-business AI automation into a paid service.
+- Next outreach step: check Reddit reply after 24-48 hours before linking Mary resources.
 
 ## Daily Log Format
 
