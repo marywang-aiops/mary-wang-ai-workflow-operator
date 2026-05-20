@@ -33,6 +33,7 @@ Payment is available by WeChat Pay or Alipay after scope confirmation. QR codes 
 - `leads/`: lead tracker and outreach log
 - `operations/`: 14-day revenue sprint and weekly review system
 - `operations/active-outreach-pipeline.md`: daily proactive community outreach system
+- `operations/revenue-loop-operating-system.md`: full funnel, review cadence, and pivot rules
 - `projects/openclaw-skills/`: safe AI workflow audit skill template
 - `site/`: static service page that can be opened directly in a browser
 - `accounts/`: platform setup guides and profile copy
@@ -44,10 +45,12 @@ Payment is available by WeChat Pay or Alipay after scope confirmation. QR codes 
 2. Publish this repository to GitHub.
 3. Share `proof/ai-workflow-audit-checklist.md` as the first useful public asset.
 4. Share `proof/sample-ai-workflow-audit.md` when a buyer asks what they will receive.
-5. Start tracking outreach in `leads/lead-tracker.csv`.
-6. Use `content/email-templates.md` to convert interest into a paid audit.
-7. Use `operations/14-day-revenue-sprint.md` as the daily work plan.
-8. Follow `accounts/github-setup.md` before publishing. Do not use the `Erica1018` GitHub account.
+5. Share `proof/before-after-ai-workflow-audit-example.md` when someone needs a before/after example.
+6. Start tracking outreach in `leads/lead-tracker.csv`.
+7. Use `operations/revenue-loop-operating-system.md` as the revenue loop source of truth.
+8. Use `content/email-templates.md` to convert interest into a paid audit.
+9. Use `operations/14-day-revenue-sprint.md` as the daily work plan.
+10. Follow `accounts/github-setup.md` before publishing. Do not use the `Erica1018` GitHub account.
 
 ## Rules
 

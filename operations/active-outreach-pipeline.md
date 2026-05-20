@@ -8,6 +8,7 @@ The website is not the acquisition engine. It is the place prospects land after 
 - Leave 3 useful public replies.
 - Track every reply in `leads/lead-tracker.csv`.
 - Follow up after 24-48 hours when someone responds.
+- Review `operations/daily-scoreboard.md` at the end of the day.
 
 ## Where To Look
 
@@ -121,4 +122,9 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-05-20 | GitHub | https://github.com/jenishkafle777-web/AgenticAI/issues/3#issuecomment-4494335097 | Landing page/intake advice |
 | 2026-05-20 | GitHub | https://github.com/siddharth23P/nox/issues/48#issuecomment-4494338570 | Workflow agent auditability advice |
 | 2026-05-20 | GitHub | https://github.com/activepieces/activepieces/issues/13231#issuecomment-4494341599 | AI workflow engineer opportunity |
+| 2026-05-20 | GitHub | https://github.com/ATHARVA262005/ai-audit-shelf/issues/1#issuecomment-4495048118 | AI audit/versioning docs contribution angle |
+| 2026-05-20 | GitHub | https://github.com/hkuwana/hiroPersonalSite/issues/74#issuecomment-4495050387 | AI workflow audit offer positioning |
 
+## Revenue Rule
+
+The website is only useful if it converts attention created elsewhere. If a day has zero public replies, the revenue loop did not run that day.

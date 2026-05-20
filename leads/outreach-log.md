@@ -13,6 +13,9 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
   - `jenishkafle777-web/AgenticAI#3`
   - `siddharth23P/nox#48`
   - `activepieces/activepieces#13231`
+- Added two more GitHub comments to reach 5 useful public replies:
+  - `ATHARVA262005/ai-audit-shelf#1`
+  - `hkuwana/hiroPersonalSite#74`
 - Next manual/account step: register or log into Reddit and Xiaohongshu as Mary Wang for non-GitHub outreach.
 
 ## Daily Log Format
