@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Workflow Audit"
+  short_description: "Audit messy AI workflows clearly."
+  default_prompt: "Audit this workflow, repo, folder, or automation idea and produce a clear non-technical report."

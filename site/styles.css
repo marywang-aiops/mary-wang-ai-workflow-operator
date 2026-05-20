@@ -1,0 +1,359 @@
+:root {
+  --ink: #1f1b16;
+  --muted: #635d54;
+  --paper: #f7f1e8;
+  --panel: #fffaf1;
+  --line: #2b2721;
+  --accent: #0f766e;
+  --accent-strong: #0b4f4a;
+  --rust: #a4492d;
+  --gold: #d7a441;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background:
+    linear-gradient(90deg, rgba(31, 27, 22, 0.04) 1px, transparent 1px),
+    linear-gradient(rgba(31, 27, 22, 0.04) 1px, transparent 1px),
+    var(--paper);
+  background-size: 26px 26px;
+  font-family: Georgia, "Times New Roman", serif;
+  overflow-x: hidden;
+}
+
+a {
+  color: inherit;
+}
+
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 16px clamp(18px, 4vw, 54px);
+  border-bottom: 2px solid var(--line);
+  background: rgba(247, 241, 232, 0.94);
+  backdrop-filter: blur(10px);
+}
+
+.brand,
+nav {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.brand {
+  font-weight: 700;
+  text-decoration: none;
+  letter-spacing: 0;
+}
+
+.brand-mark {
+  display: grid;
+  width: 42px;
+  height: 42px;
+  place-items: center;
+  border: 2px solid var(--line);
+  background: var(--gold);
+  font-family: "Courier New", monospace;
+}
+
+nav a {
+  font: 700 14px/1.2 "Courier New", monospace;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+main {
+  overflow: hidden;
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(320px, 0.95fr);
+  gap: clamp(28px, 5vw, 72px);
+  align-items: center;
+  min-height: calc(100vh - 74px);
+  padding: clamp(44px, 8vw, 100px) clamp(18px, 5vw, 70px) 36px;
+}
+
+.hero-copy {
+  max-width: 790px;
+  min-width: 0;
+}
+
+.eyebrow {
+  margin: 0 0 14px;
+  color: var(--accent-strong);
+  font: 700 13px/1.3 "Courier New", monospace;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin-top: 0;
+}
+
+h1 {
+  max-width: 820px;
+  margin-bottom: 22px;
+  font-size: clamp(54px, 8vw, 112px);
+  line-height: 0.9;
+  letter-spacing: 0;
+}
+
+h2 {
+  max-width: 780px;
+  margin-bottom: 18px;
+  font-size: clamp(34px, 4.7vw, 66px);
+  line-height: 0.95;
+  letter-spacing: 0;
+}
+
+h3 {
+  margin-bottom: 10px;
+  font-size: 24px;
+  line-height: 1.05;
+}
+
+p,
+li {
+  color: var(--muted);
+  font-size: 18px;
+  line-height: 1.55;
+}
+
+.lede {
+  max-width: 690px;
+  font-size: clamp(20px, 2.1vw, 27px);
+  line-height: 1.35;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 32px;
+}
+
+.button {
+  display: inline-flex;
+  min-height: 48px;
+  align-items: center;
+  justify-content: center;
+  padding: 13px 18px;
+  border: 2px solid var(--line);
+  box-shadow: 4px 4px 0 var(--line);
+  font: 700 15px/1.1 "Courier New", monospace;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: transform 160ms ease, box-shadow 160ms ease;
+}
+
+.button:hover {
+  transform: translate(2px, 2px);
+  box-shadow: 2px 2px 0 var(--line);
+}
+
+.primary {
+  color: #fffaf1;
+  background: var(--accent);
+}
+
+.secondary {
+  background: var(--panel);
+}
+
+.hero-visual {
+  margin: 0;
+  min-width: 0;
+}
+
+.hero-visual img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  border: 2px solid var(--line);
+  box-shadow: 14px 14px 0 var(--rust);
+  background: var(--panel);
+}
+
+.strip {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  border-top: 2px solid var(--line);
+  border-bottom: 2px solid var(--line);
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.strip span {
+  padding: 18px 16px;
+  border-right: 1px solid rgba(247, 241, 232, 0.35);
+  text-align: center;
+  font: 700 13px/1.2 "Courier New", monospace;
+  text-transform: uppercase;
+}
+
+.section {
+  padding: clamp(56px, 8vw, 108px) clamp(18px, 5vw, 70px);
+  border-bottom: 2px solid var(--line);
+}
+
+.two-column {
+  display: grid;
+  grid-template-columns: minmax(0, 0.9fr) minmax(300px, 0.7fr);
+  gap: clamp(28px, 6vw, 86px);
+  align-items: start;
+}
+
+.offer-panel,
+.grid article,
+.proof-list a {
+  border: 2px solid var(--line);
+  background: var(--panel);
+  box-shadow: 6px 6px 0 var(--line);
+}
+
+.offer-panel {
+  padding: clamp(22px, 4vw, 36px);
+}
+
+.price {
+  margin-bottom: 18px;
+  font-size: clamp(34px, 5vw, 58px);
+  font-weight: 700;
+  line-height: 0.95;
+}
+
+.price span {
+  display: block;
+  color: var(--rust);
+  font-size: 24px;
+}
+
+.payment-note {
+  padding: 12px 14px;
+  border: 2px dashed var(--accent-strong);
+  color: var(--accent-strong);
+  background: #eef8f3;
+  font: 700 15px/1.4 "Courier New", monospace;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+  margin-top: 26px;
+}
+
+.grid article {
+  min-height: 210px;
+  padding: 24px;
+}
+
+.proof {
+  display: grid;
+  grid-template-columns: minmax(0, 0.75fr) minmax(300px, 1fr);
+  gap: clamp(28px, 5vw, 70px);
+}
+
+.proof-list {
+  display: grid;
+  gap: 14px;
+}
+
+.proof-list a {
+  padding: 18px 20px;
+  font: 700 18px/1.25 "Courier New", monospace;
+  text-decoration: none;
+}
+
+.boundary-list {
+  margin: 0;
+  padding-left: 22px;
+}
+
+.contact {
+  display: grid;
+  min-height: 74vh;
+  place-items: start center;
+  padding: clamp(70px, 10vw, 130px) clamp(18px, 5vw, 70px);
+  text-align: center;
+}
+
+.contact p {
+  max-width: 690px;
+}
+
+@media (max-width: 860px) {
+  .topbar,
+  .brand,
+  nav {
+    align-items: flex-start;
+  }
+
+  .topbar {
+    flex-direction: column;
+  }
+
+  .hero,
+  .two-column,
+  .proof,
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero {
+    min-height: auto;
+  }
+
+  .strip {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 520px) {
+  h1 {
+    font-size: 46px;
+  }
+
+  .hero-actions,
+  nav {
+    width: 100%;
+    flex-wrap: wrap;
+    gap: 18px;
+  }
+
+  nav {
+    justify-content: space-between;
+  }
+
+  .button {
+    width: 100%;
+  }
+
+  .strip {
+    grid-template-columns: 1fr;
+  }
+
+  .eyebrow {
+    overflow-wrap: anywhere;
+  }
+}
