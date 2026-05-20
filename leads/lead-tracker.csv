@@ -1,3 +1,5 @@
 date,platform,lead_name,profile_or_url,problem,reply_or_action,status,next_follow_up,offer_mentioned,notes
 2026-05-20,manual,example lead,https://example.com,"messy AI workflow","send checklist link",new,2026-05-22,no,"Replace this row with real leads."
-
+2026-05-20,GitHub,jenishkafle777-web AgenticAI,https://github.com/jenishkafle777-web/AgenticAI/issues/3,"AI Workflow Audit + Prototype landing page","commented with intake-form framing and public checklist link",commented,2026-05-22,yes,"Relevant founder/building context. Watch for reply."
+2026-05-20,GitHub,siddharth23P nox,https://github.com/siddharth23P/nox/issues/48,"AI workflow automation and agents feature design","commented with auditability/permission model advice and checklist link",commented,2026-05-22,yes,"Product feedback, not direct sales."
+2026-05-20,GitHub,OneCompany via activepieces,https://github.com/activepieces/activepieces/issues/13231,"AI Workflow Engineer opportunity","commented interest and linked public proof repo",commented,2026-05-21,yes,"Potential revenue/job lead. Watch for recruiter response."

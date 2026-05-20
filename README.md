@@ -32,6 +32,7 @@ Payment is available by WeChat Pay or Alipay after scope confirmation. QR codes 
 - `content/`: Reddit, GitHub, Zhihu, and Xiaohongshu drafts
 - `leads/`: lead tracker and outreach log
 - `operations/`: 14-day revenue sprint and weekly review system
+- `operations/active-outreach-pipeline.md`: daily proactive community outreach system
 - `projects/openclaw-skills/`: safe AI workflow audit skill template
 - `site/`: static service page that can be opened directly in a browser
 - `accounts/`: platform setup guides and profile copy
