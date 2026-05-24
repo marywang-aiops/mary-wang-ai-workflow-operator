@@ -4,6 +4,7 @@ Thumbs.db
 .env
 .env.*
 private/
+projects/contributions/
 node_modules/
 dist/
 build/
