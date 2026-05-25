@@ -12,6 +12,7 @@ Live links:
 
 - GitHub: [marywang-aiops/mary-wang-ai-workflow-operator](https://github.com/marywang-aiops/mary-wang-ai-workflow-operator)
 - Service page: [Mary Wang AI Workflow Audit](https://marywang-aiops.github.io/mary-wang-ai-workflow-operator/)
+- Public contribution log: [proof/public-contribution-log.md](proof/public-contribution-log.md)
 
 ![Mary Wang service page preview](site/preview-desktop.png)
 
@@ -46,11 +47,12 @@ Payment is available by WeChat Pay or Alipay after scope confirmation. QR codes 
 3. Share `proof/ai-workflow-audit-checklist.md` as the first useful public asset.
 4. Share `proof/sample-ai-workflow-audit.md` when a buyer asks what they will receive.
 5. Share `proof/before-after-ai-workflow-audit-example.md` when someone needs a before/after example.
-6. Start tracking outreach in `leads/lead-tracker.csv`.
-7. Use `operations/revenue-loop-operating-system.md` as the revenue loop source of truth.
-8. Use `content/email-templates.md` to convert interest into a paid audit.
-9. Use `operations/14-day-revenue-sprint.md` as the daily work plan.
-10. Follow `accounts/github-setup.md` before publishing. Do not use the `Erica1018` GitHub account.
+6. Share `proof/public-contribution-log.md` when someone asks for public proof.
+7. Start tracking outreach in `leads/lead-tracker.csv`.
+8. Use `operations/revenue-loop-operating-system.md` as the revenue loop source of truth.
+9. Use `content/email-templates.md` to convert interest into a paid audit.
+10. Use `operations/14-day-revenue-sprint.md` as the daily work plan.
+11. Follow `accounts/github-setup.md` before publishing. Do not use the `Erica1018` GitHub account.
 
 ## Rules
 
