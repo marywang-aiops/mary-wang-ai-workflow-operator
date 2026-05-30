@@ -52,6 +52,16 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
 - The new reply gave a concrete `apply-gate-set` output contract and avoided Mary links or sales CTA.
 - Ran a 7-day review: GitHub is the only channel with real engagement; Reddit remains blocked by access/page timeout.
 
+## 2026-05-30
+
+- Found `gh auth status` had switched back to `Erica1018`; immediately switched active GitHub CLI account to `marywang-aiops` before any external action.
+- Checked existing GitHub leads; no new human replies after Mary comments.
+- Ran narrowed GitHub searches around `review gates`, `audit handoff`, `operator UX`, and `AI workflow handoff docs`.
+- Posted one new useful GitHub reply:
+  - `https://github.com/magicxiaomin/dramadev/issues/11#issuecomment-4581293489`
+- The reply gave a concrete review-gate documentation contract and did not include a Mary link or service pitch.
+- Ran a 3-day search/channel adjustment: generic AI automation terms remain noisy; review-gate and governance-doc searches produced a usable lead.
+
 ## Daily Log Format
 
 Date:

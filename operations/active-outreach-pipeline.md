@@ -127,6 +127,7 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-05-20 | Reddit | https://www.reddit.com/r/n8n_ai_agents/comments/1tfkf0j/comment/omtg6e2/ | Paid-service path for small-business AI automation |
 | 2026-05-24 | GitHub PR | https://github.com/ATHARVA262005/ai-audit-shelf/pull/19 | Operator-facing audit UX guide after maintainer engagement |
 | 2026-05-28 | GitHub | https://github.com/nestharus/agent-core/issues/174#issuecomment-4560212375 | Audit gate manifest and `apply-gate-set` operator advice |
+| 2026-05-30 | GitHub | https://github.com/magicxiaomin/dramadev/issues/11#issuecomment-4581293489 | Review gate docs contract and `needs-split` handling |
 
 ## Revenue Rule
 
