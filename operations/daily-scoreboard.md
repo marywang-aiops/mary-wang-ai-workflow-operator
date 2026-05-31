@@ -9,6 +9,7 @@ Use one row per day.
 | 2026-05-25 | 6 | 0 | 1 | 0 | 0 | 0 | 0 | GitHub | PR still pending; use contribution log as transparent proof while continuing outreach |
 | 2026-05-28 | 8 | 1 | 1 | 0 | 0 | 0 | 0 | GitHub | Merged PR becomes proof; continue targeted GitHub comments and restore Reddit access |
 | 2026-05-30 | 8 | 1 | 1 | 0 | 0 | 0 | 0 | GitHub | Narrow search to review-gate docs, audit manifests, and governance handoff |
+| 2026-05-31 | 8 | 1 | 1 | 0 | 0 | 0 | 0 | GitHub | CLA needs human review; audit-manifest search produced a fresh lead |
 
 ## Daily Review Questions
 

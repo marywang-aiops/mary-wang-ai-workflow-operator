@@ -62,6 +62,16 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
 - The reply gave a concrete review-gate documentation contract and did not include a Mary link or service pitch.
 - Ran a 3-day search/channel adjustment: generic AI automation terms remain noisy; review-gate and governance-doc searches produced a usable lead.
 
+## 2026-05-31
+
+- Found `gh auth status` had switched back to `Erica1018`; switched active GitHub CLI account to `marywang-aiops` before external actions.
+- Checked existing GitHub leads; no new human replies on previous issue comments.
+- Found a new PR comment on `ATHARVA262005/ai-audit-shelf#19`: maintainer requested retrospective CLA signature.
+- CLA signing is a legal/platform action and must be handled by the account owner, not Codex.
+- Posted one new useful GitHub reply:
+  - `https://github.com/lucpez/cloudporter/issues/27#issuecomment-4585431754`
+- The reply suggested a machine-readable audit finding schema and stable rule IDs for `cloudporter audit`.
+
 ## Daily Log Format
 
 Date:
