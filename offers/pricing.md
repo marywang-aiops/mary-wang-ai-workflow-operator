@@ -1,6 +1,24 @@
 # Pricing
 
-## 1. AI Workflow Audit
+## 1. Audit Artifact Review
+
+Price: USD 99 / RMB 699
+
+Delivery: 48 hours
+
+Best for: audit manifests, review-gate docs, workflow handoff artifacts, machine-readable audit output
+Payment: WeChat Pay or Alipay after scope confirmation by email
+
+Deliverables:
+
+- Artifact map
+- Missing field list
+- Risk and ambiguity list
+- Output shape suggestion
+- Human handoff checklist
+- Smallest next build
+
+## 2. AI Workflow Audit
 
 Price: USD 99 / RMB 699  
 Delivery: 48 hours  
@@ -15,7 +33,7 @@ Deliverables:
 - Recommended first build
 - Plain-language setup notes
 
-## 2. Mini Automation Build
+## 3. Mini Automation Build
 
 Price: USD 299-699 / RMB 1999-4999  
 Delivery: 3-7 days  
@@ -38,7 +56,7 @@ Deliverables:
 - One revision pass
 - Basic smoke test evidence
 
-## 3. Monthly AI Ops Retainer
+## 4. Monthly AI Ops Retainer
 
 Price: RMB 6999+ per month  
 Best for: teams that need ongoing AI workflow maintenance

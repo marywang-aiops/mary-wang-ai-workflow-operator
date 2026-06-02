@@ -10,6 +10,7 @@ Use one row per day.
 | 2026-05-28 | 8 | 1 | 1 | 0 | 0 | 0 | 0 | GitHub | Merged PR becomes proof; continue targeted GitHub comments and restore Reddit access |
 | 2026-05-30 | 8 | 1 | 1 | 0 | 0 | 0 | 0 | GitHub | Narrow search to review-gate docs, audit manifests, and governance handoff |
 | 2026-05-31 | 8 | 1 | 1 | 0 | 0 | 0 | 0 | GitHub | CLA needs human review; audit-manifest search produced a fresh lead |
+| 2026-06-02 | 7 | 1 | 2 | 0 | 0 | 0 | 0 | GitHub | 14-day pivot: engaged but no qualified; ask sharper workflow/output questions |
 
 ## Daily Review Questions
 

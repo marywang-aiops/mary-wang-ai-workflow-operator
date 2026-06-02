@@ -18,10 +18,15 @@ Live links:
 
 ## First Paid Offer
 
-**AI Workflow Audit**  
-Price: USD 99 / RMB 699  
-Delivery: 48 hours after receiving the materials  
+**Audit Artifact Review**
+
+Price: USD 99 / RMB 699
+
+Delivery: 48 hours after receiving the materials
+
 Contact: [939172168@qq.com](mailto:939172168@qq.com)
+
+Best for audit manifests, review-gate docs, workflow handoff artifacts, and machine-readable audit output.
 
 Payment is available by WeChat Pay or Alipay after scope confirmation. QR codes are sent by email and are not published in this repository.
 
