@@ -130,6 +130,7 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-05-30 | GitHub | https://github.com/magicxiaomin/dramadev/issues/11#issuecomment-4581293489 | Review gate docs contract and `needs-split` handling |
 | 2026-05-31 | GitHub | https://github.com/lucpez/cloudporter/issues/27#issuecomment-4585431754 | Machine-readable audit finding schema and stable rule IDs |
 | 2026-06-02 | GitHub | https://github.com/lucpez/cloudporter/issues/27#issuecomment-4598088875 | Follow-up on optional remediation fields and suppression IDs |
+| 2026-06-04 | GitHub | https://github.com/oscharko-dev/Keiko/issues/186#issuecomment-4618321099 | Governed workflow handoff contract fields and consumer question |
 
 ## Revenue Rule
 
