@@ -16,13 +16,13 @@ The website is not the acquisition engine. It is the place prospects land after 
 
 Search for:
 
-- `AI workflow automation`
-- `workflow audit`
-- `AI automation landing page`
-- `non technical founder automation`
-- `n8n small business workflow`
-- `agent activity log`
-- `workflow builder`
+- `audit artifact`
+- `machine-readable audit`
+- `audit manifest`
+- `workflow handoff`
+- `human approval gate workflow`
+- `review gate docs`
+- `local-control audit output`
 
 Good targets:
 
@@ -131,6 +131,8 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-05-31 | GitHub | https://github.com/lucpez/cloudporter/issues/27#issuecomment-4585431754 | Machine-readable audit finding schema and stable rule IDs |
 | 2026-06-02 | GitHub | https://github.com/lucpez/cloudporter/issues/27#issuecomment-4598088875 | Follow-up on optional remediation fields and suppression IDs |
 | 2026-06-04 | GitHub | https://github.com/oscharko-dev/Keiko/issues/186#issuecomment-4618321099 | Governed workflow handoff contract fields and consumer question |
+| 2026-06-05 | GitHub | https://github.com/victorlavrenko/answer-engineering/issues/19#issuecomment-4627493276 | Reviewable compliance audit artifact schema and redaction tests |
+| 2026-06-05 | GitHub | https://github.com/coastalgit/solution-os/issues/27#issuecomment-4627494398 | Local-control audit output fields and leakage warning fixture tests |
 
 ## Revenue Rule
 

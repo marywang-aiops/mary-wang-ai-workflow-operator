@@ -32,3 +32,27 @@ Next follow-up:
 - Ask the account owner to review the CLA request before responding to it.
 - Use this as a public proof asset in relevant GitHub/community replies.
 - Do not present it as a paid client, testimonial, or revenue.
+
+## 2026-06-05: Audit artifact schema comments
+
+Links:
+
+- https://github.com/victorlavrenko/answer-engineering/issues/19#issuecomment-4627493276
+- https://github.com/coastalgit/solution-os/issues/27#issuecomment-4627494398
+
+Status: public comments posted
+
+Context:
+
+- Both issues ask for machine-readable audit artifacts or governance audit output.
+- Mary replied with concrete schema fields, fixture tests, redaction checks, and operator-facing warning classes.
+
+Why it matters:
+
+- These comments show the narrowed Mary Wang wedge after the 14-day pivot: audit artifacts, review gates, and workflow handoff contracts.
+- They are useful public proof even if they do not become paid leads.
+
+Next follow-up:
+
+- Watch for maintainer replies after 24-72 hours.
+- If a maintainer asks for help, qualify the real workflow before mentioning the RMB 699 audit.

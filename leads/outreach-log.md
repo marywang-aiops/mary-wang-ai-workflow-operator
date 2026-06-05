@@ -96,6 +96,21 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
 - The reply focused on handoff contract fields, human approval vs agent execution boundaries, and the primary consumer question.
 - Completed second weekly review: GitHub remains the only working channel; qualified leads and revenue remain zero.
 
+## 2026-06-05
+
+- Found `gh auth status` had switched back to `Erica1018`; switched active GitHub CLI account to `marywang-aiops` and verified API identity before external actions.
+- Checked existing GitHub leads:
+  - `cloudporter#27` has no new reply after Mary's follow-up.
+  - `Keiko#186` has no new reply after Mary's 2026-06-04 comment.
+  - `ai-audit-shelf#19` still has a CLA request that requires user/legal approval.
+  - No new qualified lead, audit offer, or payment.
+- Searched pivot keywords: `audit artifact`, `machine-readable audit`, `human approval gate workflow`, `workflow handoff`.
+- Posted two useful GitHub replies:
+  - `https://github.com/victorlavrenko/answer-engineering/issues/19#issuecomment-4627493276`
+  - `https://github.com/coastalgit/solution-os/issues/27#issuecomment-4627494398`
+- The replies focused on reviewable audit artifact schemas, redaction tests, local-control path audit fields, and leakage warning classes.
+- Ran a channel/search review: GitHub remains the only productive channel; the strongest terms are now `audit artifact`, `machine-readable audit`, and `workflow handoff`.
+
 ## Daily Log Format
 
 Date:
