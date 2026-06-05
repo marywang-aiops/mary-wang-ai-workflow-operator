@@ -133,6 +133,7 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-06-04 | GitHub | https://github.com/oscharko-dev/Keiko/issues/186#issuecomment-4618321099 | Governed workflow handoff contract fields and consumer question |
 | 2026-06-05 | GitHub | https://github.com/victorlavrenko/answer-engineering/issues/19#issuecomment-4627493276 | Reviewable compliance audit artifact schema and redaction tests |
 | 2026-06-05 | GitHub | https://github.com/coastalgit/solution-os/issues/27#issuecomment-4627494398 | Local-control audit output fields and leakage warning fixture tests |
+| 2026-06-05 | GitHub | https://github.com/dativo-io/talon/issues/147#issuecomment-4630401788 | HITL approval-gate evidence records and deterministic deny/timeout tests |
 
 ## Revenue Rule
 

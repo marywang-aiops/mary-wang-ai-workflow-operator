@@ -39,13 +39,15 @@ Links:
 
 - https://github.com/victorlavrenko/answer-engineering/issues/19#issuecomment-4627493276
 - https://github.com/coastalgit/solution-os/issues/27#issuecomment-4627494398
+- https://github.com/dativo-io/talon/issues/147#issuecomment-4630401788
 
 Status: public comments posted
 
 Context:
 
 - Both issues ask for machine-readable audit artifacts or governance audit output.
-- Mary replied with concrete schema fields, fixture tests, redaction checks, and operator-facing warning classes.
+- The later Talon issue asks for high-risk runtime tool calls to pass through HITL approval and signed evidence.
+- Mary replied with concrete schema fields, fixture tests, redaction checks, operator-facing warning classes, and approval-gate evidence records.
 
 Why it matters:
 

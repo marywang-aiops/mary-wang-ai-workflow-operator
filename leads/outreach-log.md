@@ -110,6 +110,10 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
   - `https://github.com/coastalgit/solution-os/issues/27#issuecomment-4627494398`
 - The replies focused on reviewable audit artifact schemas, redaction tests, local-control path audit fields, and leakage warning classes.
 - Ran a channel/search review: GitHub remains the only productive channel; the strongest terms are now `audit artifact`, `machine-readable audit`, and `workflow handoff`.
+- Evening second pass found no new replies on existing leads.
+- Posted one more useful GitHub reply:
+  - `https://github.com/dativo-io/talon/issues/147#issuecomment-4630401788`
+- The reply focused on HITL approval evidence records, denial/timeout auditability, and deterministic blocked states.
 
 ## Daily Log Format
 

@@ -37,6 +37,7 @@ Avoid generic AI automation threads unless the person describes a real workflow,
 By 2026-06-08:
 
 - Check whether `answer-engineering#19` or `solution-os#27` produces a maintainer reply.
+- Check whether `talon#147` produces a maintainer reply.
 - If either replies, ask one qualifying question:
   - Who consumes the artifact?
   - What decision should it block?

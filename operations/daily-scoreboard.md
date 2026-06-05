@@ -12,7 +12,7 @@ Use one row per day.
 | 2026-05-31 | 8 | 1 | 1 | 0 | 0 | 0 | 0 | GitHub | CLA needs human review; audit-manifest search produced a fresh lead |
 | 2026-06-02 | 7 | 1 | 2 | 0 | 0 | 0 | 0 | GitHub | 14-day pivot: engaged but no qualified; ask sharper workflow/output questions |
 | 2026-06-04 | 8 | 1 | 2 | 0 | 0 | 0 | 0 | GitHub | Second weekly review: keep audit artifact wedge, but qualified-lead gap remains |
-| 2026-06-05 | 10 | 2 | 2 | 0 | 0 | 0 | 0 | GitHub | Double down on audit artifact and local-control audit output; follow up only if maintainers engage |
+| 2026-06-05 | 18 | 3 | 2 | 0 | 0 | 0 | 0 | GitHub | Double down on audit artifact, local-control audit output, and approval-gate evidence records |
 
 ## Daily Review Questions
 
