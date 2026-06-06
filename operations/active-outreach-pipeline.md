@@ -134,6 +134,8 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-06-05 | GitHub | https://github.com/victorlavrenko/answer-engineering/issues/19#issuecomment-4627493276 | Reviewable compliance audit artifact schema and redaction tests |
 | 2026-06-05 | GitHub | https://github.com/coastalgit/solution-os/issues/27#issuecomment-4627494398 | Local-control audit output fields and leakage warning fixture tests |
 | 2026-06-05 | GitHub | https://github.com/dativo-io/talon/issues/147#issuecomment-4630401788 | HITL approval-gate evidence records and deterministic deny/timeout tests |
+| 2026-06-06 | GitHub | https://github.com/oscharko-dev/Keiko/issues/536#issuecomment-4638198966 | Redacted relationship audit model and durable/transient state split |
+| 2026-06-06 | GitHub | https://github.com/ManicodeSecurity/trust-me-bro/issues/31#issuecomment-4638199606 | Review-gated scanner outputs and audit/refutation evidence invariants |
 
 ## Revenue Rule
 

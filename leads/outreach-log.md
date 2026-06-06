@@ -115,6 +115,20 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
   - `https://github.com/dativo-io/talon/issues/147#issuecomment-4630401788`
 - The reply focused on HITL approval evidence records, denial/timeout auditability, and deterministic blocked states.
 
+## 2026-06-06
+
+- Switched active GitHub CLI account to `marywang-aiops` and verified API identity before external actions.
+- Checked existing GitHub leads:
+  - `answer-engineering#19`, `solution-os#27`, and `talon#147` have no new human replies yet.
+  - `cloudporter#27` and `Keiko#186` have no new reply after Mary's follow-ups.
+  - `ai-audit-shelf#19` still has a CLA request that requires user/legal approval.
+  - No new qualified lead, audit offer, or payment.
+- Searched high-fit terms: `audit evidence`, `approval gate evidence`, `artifact readiness`, and `review gate audit`.
+- Posted two useful GitHub replies:
+  - `https://github.com/oscharko-dev/Keiko/issues/536#issuecomment-4638198966`
+  - `https://github.com/ManicodeSecurity/trust-me-bro/issues/31#issuecomment-4638199606`
+- The replies focused on redacted audit evidence models, durable vs transient state boundaries, and review-gated output separation.
+
 ## Daily Log Format
 
 Date:

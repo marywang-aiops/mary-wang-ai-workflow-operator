@@ -58,3 +58,28 @@ Next follow-up:
 
 - Watch for maintainer replies after 24-72 hours.
 - If a maintainer asks for help, qualify the real workflow before mentioning the RMB 699 audit.
+
+## 2026-06-06: Review-gated audit evidence comments
+
+Links:
+
+- https://github.com/oscharko-dev/Keiko/issues/536#issuecomment-4638198966
+- https://github.com/ManicodeSecurity/trust-me-bro/issues/31#issuecomment-4638199606
+
+Status: public comments posted
+
+Context:
+
+- One issue asks for a redacted audit/evidence/activity-state model.
+- One issue asks for review-gated vs auto-file scanner behavior while preserving audit/refutation evidence.
+- Mary replied with durable/transient state boundaries, evidence reference fields, and output separation invariants.
+
+Why it matters:
+
+- These comments strengthen the narrowed Mary Wang positioning around review-gated evidence, not generic AI workflow automation.
+- They are useful public proof but are not paid clients, testimonials, or revenue.
+
+Next follow-up:
+
+- Watch for maintainer replies by 2026-06-09.
+- If either maintainer engages, ask whether a small sample event model or artifact review would help before mentioning the paid audit.
