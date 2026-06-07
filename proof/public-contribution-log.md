@@ -83,3 +83,33 @@ Next follow-up:
 
 - Watch for maintainer replies by 2026-06-09.
 - If either maintainer engages, ask whether a small sample event model or artifact review would help before mentioning the paid audit.
+
+Follow-up result:
+
+- `Keiko#536` maintainer replied that the model was integrated via merged PR #572.
+- This is a public proof signal, not a paid client, testimonial, or revenue.
+
+## 2026-06-07: Buyer-facing evidence pack and audit-log comments
+
+Links:
+
+- https://github.com/writer/aperio/issues/49#issuecomment-4642149291
+- https://github.com/steffenboe/NclaveOS/issues/18#issuecomment-4642150327
+
+Status: public comments posted
+
+Context:
+
+- One issue asks for auditor-ready evidence packs mapped to compliance frameworks.
+- One issue asks for approval-aware command audit logs.
+- Mary replied with concrete pack manifests, redaction boundaries, incomplete-evidence tests, and separate policy/approval/execution audit events.
+
+Why it matters:
+
+- These issues are closer to a buyer-facing pain: proving evidence to auditors and admins.
+- They strengthen the current offer around Audit Artifact Review instead of generic automation advice.
+
+Next follow-up:
+
+- Watch for maintainer replies by 2026-06-10.
+- If either maintainer engages, ask for one sample evidence pack or audit event shape before mentioning the paid audit.

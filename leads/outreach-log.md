@@ -129,6 +129,21 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
   - `https://github.com/ManicodeSecurity/trust-me-bro/issues/31#issuecomment-4638199606`
 - The replies focused on redacted audit evidence models, durable vs transient state boundaries, and review-gated output separation.
 
+## 2026-06-07
+
+- Switched active GitHub CLI account to `marywang-aiops` and verified API identity before external actions.
+- Checked existing GitHub leads:
+  - `Keiko#536` got a maintainer reply after Mary's comment and was integrated via merged PR #572.
+  - `answer-engineering#19`, `solution-os#27`, `talon#147`, `Aperio#49`, and `NclaveOS#18` have no paid/qualified conversation yet.
+  - `trust-me-bro#31` was not resolvable through the GitHub API during today's check; keep the row but verify manually before follow-up.
+  - `ai-audit-shelf#19` still has a CLA request that requires user/legal approval.
+  - No new qualified lead, audit offer, or payment.
+- Searched high-fit terms: `redacted audit evidence`, `review-gated`, `evidence pack audit`, and `approval decision audit`.
+- Posted two useful GitHub replies:
+  - `https://github.com/writer/aperio/issues/49#issuecomment-4642149291`
+  - `https://github.com/steffenboe/NclaveOS/issues/18#issuecomment-4642150327`
+- Ran a three-day channel/search review: `evidence pack`, `auditor-ready`, and `approval decision audit` are now stronger buyer-facing terms than generic `review gate`.
+
 ## Daily Log Format
 
 Date:

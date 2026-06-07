@@ -14,6 +14,7 @@ Use one row per day.
 | 2026-06-04 | 8 | 1 | 2 | 0 | 0 | 0 | 0 | GitHub | Second weekly review: keep audit artifact wedge, but qualified-lead gap remains |
 | 2026-06-05 | 18 | 3 | 2 | 0 | 0 | 0 | 0 | GitHub | Double down on audit artifact, local-control audit output, and approval-gate evidence records |
 | 2026-06-06 | 14 | 2 | 2 | 0 | 0 | 0 | 0 | GitHub | Continue narrow artifact/evidence wedge; focus next follow-up on sample event model offers |
+| 2026-06-07 | 18 | 2 | 3 | 0 | 0 | 0 | 0 | GitHub | Evidence-pack and approval-audit searches produced better buyer-facing targets than generic review-gate terms |
 
 ## Daily Review Questions
 

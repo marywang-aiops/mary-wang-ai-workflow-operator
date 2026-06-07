@@ -23,6 +23,9 @@ Search for:
 - `human approval gate workflow`
 - `review gate docs`
 - `local-control audit output`
+- `auditor-ready evidence pack`
+- `approval decision audit`
+- `redacted audit evidence`
 
 Good targets:
 
@@ -136,6 +139,8 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-06-05 | GitHub | https://github.com/dativo-io/talon/issues/147#issuecomment-4630401788 | HITL approval-gate evidence records and deterministic deny/timeout tests |
 | 2026-06-06 | GitHub | https://github.com/oscharko-dev/Keiko/issues/536#issuecomment-4638198966 | Redacted relationship audit model and durable/transient state split |
 | 2026-06-06 | GitHub | https://github.com/ManicodeSecurity/trust-me-bro/issues/31#issuecomment-4638199606 | Review-gated scanner outputs and audit/refutation evidence invariants |
+| 2026-06-07 | GitHub | https://github.com/writer/aperio/issues/49#issuecomment-4642149291 | Auditor-ready evidence pack manifest, redaction, and incomplete-evidence test |
+| 2026-06-07 | GitHub | https://github.com/steffenboe/NclaveOS/issues/18#issuecomment-4642150327 | Approval-aware audit log event split and deletion-invariant tests |
 
 ## Revenue Rule
 
