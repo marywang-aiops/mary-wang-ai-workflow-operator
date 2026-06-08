@@ -144,6 +144,21 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
   - `https://github.com/steffenboe/NclaveOS/issues/18#issuecomment-4642150327`
 - Ran a three-day channel/search review: `evidence pack`, `auditor-ready`, and `approval decision audit` are now stronger buyer-facing terms than generic `review gate`.
 
+## 2026-06-08
+
+- Switched active GitHub CLI account to `marywang-aiops` and verified API identity before external actions.
+- Checked existing GitHub leads:
+  - `talon#147` maintainer explicitly incorporated Mary's two-record evidence model into updated implementation expectations.
+  - `Aperio#49` and `NclaveOS#18` have no new reply after Mary's 2026-06-07 comments.
+  - `answer-engineering#19` and `trust-me-bro#31` were not resolvable through the GitHub API during today's check; verify manually before any follow-up.
+  - `ai-audit-shelf#19` still has a CLA request that requires user/legal approval.
+  - No new qualified lead, audit offer, or payment.
+- Posted one follow-up reply:
+  - `https://github.com/dativo-io/talon/issues/147#issuecomment-4647734768`
+- Posted one new useful GitHub reply:
+  - `https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4647742172`
+- The replies focused on sample evidence lifecycle fixtures and signed Solo-tier audit export boundaries.
+
 ## Daily Log Format
 
 Date:

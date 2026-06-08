@@ -113,3 +113,45 @@ Next follow-up:
 
 - Watch for maintainer replies by 2026-06-10.
 - If either maintainer engages, ask for one sample evidence pack or audit event shape before mentioning the paid audit.
+
+## 2026-06-08: Talon evidence model adopted publicly
+
+Link:
+
+- https://github.com/dativo-io/talon/issues/147#issuecomment-4642447896
+
+Status: maintainer incorporated Mary's suggestion into updated implementation expectations
+
+Context:
+
+- Mary suggested separating blocked runtime tool-call evidence from human approval decision evidence.
+- The Talon maintainer credited Mary and added the two linked signed evidence records to the issue's implementation expectation and acceptance criteria.
+
+Why it matters:
+
+- This is the strongest current public proof for the Audit Artifact Review wedge.
+- It shows that Mary's comments are not just visible; they can shape maintainers' audit/evidence specs.
+- It is still not a paid client, testimonial, or revenue.
+
+Next follow-up:
+
+- Watch whether Talon creates a follow-up issue or sample export.
+- If a sample export appears, ask to sanity-check the lifecycle boundary before mentioning the paid audit.
+
+## 2026-06-08: Signed audit export comment
+
+Link:
+
+- https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4647742172
+
+Status: public comment posted
+
+Context:
+
+- The CORE issue is a signed cloud audit export aimed at Solo-tier commercial revenue.
+- Mary replied with a minimum signed export pack and a negative fixture for missing or mismatched evidence references.
+
+Why it matters:
+
+- This is a commercial-audit-export lead, closer to paid work than broad automation discussion.
+- It reinforces Mary Wang's narrowed positioning around audit artifacts that buyers can actually inspect.
