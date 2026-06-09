@@ -159,6 +159,24 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
   - `https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4647742172`
 - The replies focused on sample evidence lifecycle fixtures and signed Solo-tier audit export boundaries.
 
+## 2026-06-09
+
+- Switched active GitHub CLI account to `marywang-aiops` and verified API identity before external actions.
+- Checked existing GitHub leads:
+  - `CORE#525` owner accepted Mary's signed export pack boundary and clarified the F-46/F-37 line.
+  - `talon#147` has additional public discussion around the three-record lifecycle, but no sample export or qualified workflow yet.
+  - `NclaveAI#18` is now closed and has one thumbs-up on Mary's approval-aware audit log comment, but no maintainer follow-up.
+  - `ai-audit-shelf#19` still has a CLA request that requires user/legal approval.
+  - No new qualified lead, audit offer, or payment.
+- Searched high-fit terms: `signed audit export`, `audit export evidence`, `approval decision audit`, and `evidence manifest audit`.
+- Posted one follow-up reply:
+  - `https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4658665372`
+- Posted two new useful GitHub replies:
+  - `https://github.com/MonikaDvorackova/govai-core/issues/31#issuecomment-4658672865`
+  - `https://github.com/oscharko-dev/Keiko/issues/484#issuecomment-4658673104`
+- The replies focused on verifier contracts, signed audit export completeness, operator-facing evidence manifests, redaction timing, and degraded-mode tests.
+- Conversion note: do not pitch the paid audit yet. The next revenue move is to ask any engaged maintainer for one sample export, manifest skeleton, or audit event model; that becomes the qualified-lead trigger.
+
 ## Daily Log Format
 
 Date:

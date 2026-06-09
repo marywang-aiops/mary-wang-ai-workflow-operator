@@ -155,3 +155,56 @@ Why it matters:
 
 - This is a commercial-audit-export lead, closer to paid work than broad automation discussion.
 - It reinforces Mary Wang's narrowed positioning around audit artifacts that buyers can actually inspect.
+
+Follow-up result:
+
+- The issue owner accepted the core shape and clarified the F-46 boundary as buyer-readable audit evidence, not governed-change evidence.
+- Mary posted a follow-up fixture matrix for verifier completeness:
+  - https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4658665372
+- This is an engaged public lead, not a paid client or testimonial.
+
+## 2026-06-09: Rust-native signed audit verifier comment
+
+Link:
+
+- https://github.com/MonikaDvorackova/govai-core/issues/31#issuecomment-4658672865
+
+Status: public comment posted
+
+Context:
+
+- The issue asks for Rust-native verification of signed GovAI Core audit exports.
+- Mary replied with a staged verifier result model and negative fixtures for signed-but-incomplete evidence packages.
+
+Why it matters:
+
+- This is a direct match for the Audit Artifact Review wedge: signed exports, verifier behavior, and buyer/auditor usefulness.
+- It gives Mary another public example in the narrower signed audit export niche without making a sales pitch.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-12.
+- If a sample export format appears, ask whether a short artifact sanity check would help.
+
+## 2026-06-09: Runtime evidence manifest comment
+
+Link:
+
+- https://github.com/oscharko-dev/Keiko/issues/484#issuecomment-4658673104
+
+Status: public comment posted
+
+Context:
+
+- The issue asks for runtime credential separation, redaction, evidence manifests, policy outcomes, and operator-safe diagnostics.
+- Mary replied with an operator-facing manifest structure and negative tests for credential leakage, degraded execution, redaction timing, and policy-denial recording.
+
+Why it matters:
+
+- The same repo previously integrated a Mary suggestion into a merged PR, so this is a good repeat-context channel.
+- The advice supports the current Mary positioning around evidence artifacts security operators can actually review.
+
+Next follow-up:
+
+- Watch for maintainer engagement by 2026-06-12.
+- If they engage, qualify around the current evidence manifest schema before mentioning any paid audit.

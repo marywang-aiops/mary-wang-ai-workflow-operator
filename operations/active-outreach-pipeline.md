@@ -140,9 +140,12 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-06-06 | GitHub | https://github.com/oscharko-dev/Keiko/issues/536#issuecomment-4638198966 | Redacted relationship audit model and durable/transient state split |
 | 2026-06-06 | GitHub | https://github.com/ManicodeSecurity/trust-me-bro/issues/31#issuecomment-4638199606 | Review-gated scanner outputs and audit/refutation evidence invariants |
 | 2026-06-07 | GitHub | https://github.com/writer/aperio/issues/49#issuecomment-4642149291 | Auditor-ready evidence pack manifest, redaction, and incomplete-evidence test |
-| 2026-06-07 | GitHub | https://github.com/steffenboe/NclaveOS/issues/18#issuecomment-4642150327 | Approval-aware audit log event split and deletion-invariant tests |
+| 2026-06-07 | GitHub | https://github.com/steffenboe/NclaveAI/issues/18#issuecomment-4642150327 | Approval-aware audit log event split and deletion-invariant tests |
 | 2026-06-08 | GitHub | https://github.com/dativo-io/talon/issues/147#issuecomment-4647734768 | Follow-up on approval lifecycle fixture and reviewer-facing audit story |
 | 2026-06-08 | GitHub | https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4647742172 | Signed Solo-tier audit export pack boundary and negative fixture |
+| 2026-06-09 | GitHub | https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4658665372 | Follow-up on buyer-readable verifier contract and F-46 fixture matrix |
+| 2026-06-09 | GitHub | https://github.com/MonikaDvorackova/govai-core/issues/31#issuecomment-4658672865 | Rust-native signed audit verifier stages and negative completeness fixtures |
+| 2026-06-09 | GitHub | https://github.com/oscharko-dev/Keiko/issues/484#issuecomment-4658673104 | Operator-facing runtime evidence manifest and redaction/degraded-mode tests |
 
 ## Revenue Rule
 
