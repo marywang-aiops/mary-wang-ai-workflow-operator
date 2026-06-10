@@ -177,6 +177,25 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
 - The replies focused on verifier contracts, signed audit export completeness, operator-facing evidence manifests, redaction timing, and degraded-mode tests.
 - Conversion note: do not pitch the paid audit yet. The next revenue move is to ask any engaged maintainer for one sample export, manifest skeleton, or audit event model; that becomes the qualified-lead trigger.
 
+## 2026-06-10
+
+- Switched active GitHub CLI account to `marywang-aiops` and verified API identity before external actions.
+- Checked existing GitHub leads:
+  - `CORE#525` owner adopted Mary's verifier contract into ADR/enum work and landed `export_evidence_class` with `audit_evidence` and `governed_change_evidence`.
+  - `talon#147` issue body now contains the three-record lifecycle and verifier rules; this is strong public proof, but no sample export or qualified workflow yet.
+  - `govai-core#31` and `Keiko#484` have no new maintainer replies after Mary's 2026-06-09 comments.
+  - `writer/aperio#49` and `NclaveAI#18` have no new maintainer follow-up.
+  - `ai-audit-shelf#19` still has a CLA request that requires user/legal approval.
+  - No qualified lead, audit offer, payment, or revenue.
+- Searched high-fit terms: `signed audit export`, `audit verifier evidence`, `evidence manifest redaction`, and `approval gate audit verify`.
+- Posted one follow-up reply:
+  - `https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4668938965`
+- Posted two new useful GitHub replies:
+  - `https://github.com/blencorp/ashlar/issues/11#issuecomment-4668939425`
+  - `https://github.com/euphoricdoom/.Neon/issues/28#issuecomment-4668939823`
+- The replies focused on tiny fixture exports, CI evidence bundles, verifier-vs-SARIF boundaries, proof packet facts/claims/limits, and negative unsupported-claim fixtures.
+- Ran both the 3-day channel review and weekly review. GitHub remains the only working channel; the strongest search terms are now `signed audit export`, `audit verifier`, `proof packet`, `evidence bundle`, and `verifier result`.
+
 ## Daily Log Format
 
 Date:

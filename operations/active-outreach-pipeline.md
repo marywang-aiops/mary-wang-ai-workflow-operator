@@ -146,6 +146,9 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-06-09 | GitHub | https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4658665372 | Follow-up on buyer-readable verifier contract and F-46 fixture matrix |
 | 2026-06-09 | GitHub | https://github.com/MonikaDvorackova/govai-core/issues/31#issuecomment-4658672865 | Rust-native signed audit verifier stages and negative completeness fixtures |
 | 2026-06-09 | GitHub | https://github.com/oscharko-dev/Keiko/issues/484#issuecomment-4658673104 | Operator-facing runtime evidence manifest and redaction/degraded-mode tests |
+| 2026-06-10 | GitHub | https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4668938965 | Follow-up asking for a tiny synthetic fixture export skeleton |
+| 2026-06-10 | GitHub | https://github.com/blencorp/ashlar/issues/11#issuecomment-4668939425 | CI audit evidence bundle, verifier output, SARIF boundary, and negative fixtures |
+| 2026-06-10 | GitHub | https://github.com/euphoricdoom/.Neon/issues/28#issuecomment-4668939823 | Proof packet facts/claims/limits schema and unsupported-claim negative fixture |
 
 ## Revenue Rule
 

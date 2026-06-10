@@ -17,6 +17,7 @@ Use one row per day.
 | 2026-06-07 | 18 | 2 | 3 | 0 | 0 | 0 | 0 | GitHub | Evidence-pack and approval-audit searches produced better buyer-facing targets than generic review-gate terms |
 | 2026-06-08 | 22 | 2 | 4 | 0 | 0 | 0 | 0 | GitHub | Talon became strong public proof; signed audit export searches found commercial CORE lead |
 | 2026-06-09 | 18 | 3 | 5 | 0 | 0 | 0 | 0 | GitHub | CORE moved from comment to engaged; next conversion step is asking for a sample export or manifest skeleton |
+| 2026-06-10 | 24 | 3 | 5 | 0 | 0 | 0 | 0 | GitHub | Weekly review: keep GitHub as main channel and narrow search further to signed export, verifier, and proof packet issues |
 
 ## Daily Review Questions
 

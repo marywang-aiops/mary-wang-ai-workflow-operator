@@ -208,3 +208,76 @@ Next follow-up:
 
 - Watch for maintainer engagement by 2026-06-12.
 - If they engage, qualify around the current evidence manifest schema before mentioning any paid audit.
+
+## 2026-06-10: CORE verifier contract adopted into ADR/enum work
+
+Links:
+
+- Owner response: https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4660576732
+- Owner ADR/enum update: https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4660752875
+- Mary follow-up: https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4668938965
+
+Status: maintainer adopted Mary's verifier contract direction into project artifacts
+
+Context:
+
+- Mary suggested that F-46 signed exports need a buyer-readable verifier contract and a strict F-46/F-37 boundary.
+- The owner converted the boundary into `export_evidence_class` with `audit_evidence` and `governed_change_evidence`.
+- Mary followed up by asking for a tiny synthetic fixture export skeleton as the next artifact.
+
+Why it matters:
+
+- This is the closest current public proof for the `Audit Artifact Review` wedge.
+- It shows that Mary can shape real audit-export product semantics, not just leave generic advice.
+- It is still not a paid client, testimonial, or revenue.
+
+Next follow-up:
+
+- Watch for an export skeleton or fixture by 2026-06-13.
+- If a sample appears, ask to sanity-check it against the verifier boundary before mentioning the paid audit.
+
+## 2026-06-10: CI audit evidence bundle comment
+
+Link:
+
+- https://github.com/blencorp/ashlar/issues/11#issuecomment-4668939425
+
+Status: public comment posted
+
+Context:
+
+- The issue asks to harden CI for audit, verify, evidence validation, artifact upload, and SARIF output.
+- Mary replied with a single uploaded evidence bundle shape and a verifier-vs-SARIF boundary.
+
+Why it matters:
+
+- This is a direct match for buyers who need proof artifacts from CI rather than another dashboard.
+- It reinforces Mary as an operator who turns audit workflows into inspectable artifacts.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-13.
+- If the maintainer describes the current artifact format, qualify around missing bundle/verifier fields.
+
+## 2026-06-10: Proof packet schema comment
+
+Link:
+
+- https://github.com/euphoricdoom/.Neon/issues/28#issuecomment-4668939823
+
+Status: public comment posted
+
+Context:
+
+- The issue asks for a portable proof packet format for audit bundles.
+- Mary replied with a facts/claims/limits manifest shape and a negative unsupported-rights-claim fixture.
+
+Why it matters:
+
+- Proof packet structure is adjacent to the paid audit offer: customers need artifacts that are verifiable and honest about limits.
+- The comment strengthens Mary's public proof around audit packets, redaction, verifier output, and non-claims.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-13.
+- If they engage, ask for the first sample packet or verifier report before any paid audit pitch.
