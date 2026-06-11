@@ -281,3 +281,73 @@ Next follow-up:
 
 - Watch for maintainer reply by 2026-06-13.
 - If they engage, ask for the first sample packet or verifier report before any paid audit pitch.
+
+## 2026-06-11: CORE fixture boundary follow-up
+
+Link:
+
+- https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4676522556
+
+Status: public follow-up posted after maintainer engagement
+
+Context:
+
+- The CORE owner agreed with the fixture-first path and refined subject reference shape plus verifier error vocabulary.
+- Mary followed up by separating the immediate fixture bench from the deferred context-summary ADR and proposed a `governed_change_leak` canary.
+
+Why it matters:
+
+- This keeps the strongest current lead moving toward a concrete sample export or fixture bench.
+- It is the most likely path to a qualified lead because the discussion is now about a specific artifact boundary, not abstract positioning.
+- It is still not a paid client, testimonial, or revenue.
+
+Next follow-up:
+
+- Watch for a fixture export, bench skeleton, or follow-up ADR by 2026-06-14.
+- If a concrete artifact appears, offer a concise artifact sanity check and prepare the RMB 699 audit offer.
+
+## 2026-06-11: Redaction-safe evidence bundle comment
+
+Link:
+
+- https://github.com/madmax983/egregore/issues/68#issuecomment-4676526612
+
+Status: public comment posted
+
+Context:
+
+- The issue asks for local, redaction-safe evidence bundle exports from an evidence graph.
+- Mary replied with separate verifier verdicts for integrity, coverage, and safety, plus negative fixtures for protected payload leakage and incomplete evidence closure.
+
+Why it matters:
+
+- This directly matches the Audit Artifact Review wedge: evidence handoff, redaction, verifier output, and reviewability.
+- It broadens Mary beyond signed exports into local-first evidence packaging.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-14.
+- If they engage, ask for a sample bundle or verifier-result shape.
+
+## 2026-06-11: Portable offline verifier comment
+
+Link:
+
+- https://github.com/safal207/ProofPath/issues/161#issuecomment-4676526780
+
+Status: public comment posted
+
+Context:
+
+- The issue asks for portable, tamper-evident payment-guard evidence and an offline verifier.
+- Mary replied with a small bundle layout and deterministic fixtures for tamper detection and privacy-boundary failure.
+
+Why it matters:
+
+- Offline verification is a strong buyer-facing audit story: prove decisions without trusting a live service.
+- The issue is grant/reviewer oriented, which fits Mary Wang's current evidence-artifact positioning.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-14.
+- If they provide a first fixture direction, qualify around first bundle format before any paid audit pitch.

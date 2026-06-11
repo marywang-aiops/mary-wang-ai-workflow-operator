@@ -196,6 +196,25 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
 - The replies focused on tiny fixture exports, CI evidence bundles, verifier-vs-SARIF boundaries, proof packet facts/claims/limits, and negative unsupported-claim fixtures.
 - Ran both the 3-day channel review and weekly review. GitHub remains the only working channel; the strongest search terms are now `signed audit export`, `audit verifier`, `proof packet`, `evidence bundle`, and `verifier result`.
 
+## 2026-06-11
+
+- Switched active GitHub CLI account to `marywang-aiops` and verified API identity before external actions.
+- Checked existing GitHub leads:
+  - `CORE#525` owner agreed the fixture-first path and refined subject references plus verifier error vocabulary.
+  - `talon#147` now has Mary's approval lifecycle direction incorporated into the issue body, but no sample evidence export yet.
+  - `govai-core#31`, `Keiko#484`, `ashlar#11`, and `.Neon#28` have no maintainer replies after Mary's latest comments.
+  - `writer/aperio#49` and `NclaveAI#18` have no new maintainer follow-up.
+  - `ai-audit-shelf#19` still has a CLA request that requires user/legal approval.
+  - No qualified lead, audit offer, payment, or revenue.
+- Posted one follow-up reply:
+  - `https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4676522556`
+- Searched high-fit terms: `proof packet`, `verifier result audit`, `evidence bundle audit`, and `redaction manifest`.
+- Posted two new useful GitHub replies:
+  - `https://github.com/madmax983/egregore/issues/68#issuecomment-4676526612`
+  - `https://github.com/safal207/ProofPath/issues/161#issuecomment-4676526780`
+- The replies focused on verifier verdict separation, coverage thresholds, protected-payload negative fixtures, offline evidence bundles, tamper detection, and privacy-boundary failures.
+- Conversion note: `CORE#525` remains the closest current lead. Do not quote price yet; wait for a fixture export, bench skeleton, or concrete artifact handoff.
+
 ## Daily Log Format
 
 Date:

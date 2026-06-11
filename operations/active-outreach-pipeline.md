@@ -149,6 +149,9 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-06-10 | GitHub | https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4668938965 | Follow-up asking for a tiny synthetic fixture export skeleton |
 | 2026-06-10 | GitHub | https://github.com/blencorp/ashlar/issues/11#issuecomment-4668939425 | CI audit evidence bundle, verifier output, SARIF boundary, and negative fixtures |
 | 2026-06-10 | GitHub | https://github.com/euphoricdoom/.Neon/issues/28#issuecomment-4668939823 | Proof packet facts/claims/limits schema and unsupported-claim negative fixture |
+| 2026-06-11 | GitHub | https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4676522556 | Follow-up on F-46 context-summary boundary and governed-change leak canary |
+| 2026-06-11 | GitHub | https://github.com/madmax983/egregore/issues/68#issuecomment-4676526612 | Redaction-safe evidence bundle verifier verdicts and protected-payload negative fixtures |
+| 2026-06-11 | GitHub | https://github.com/safal207/ProofPath/issues/161#issuecomment-4676526780 | Portable payment-guard evidence bundle and offline verifier fixtures |
 
 ## Revenue Rule
 
