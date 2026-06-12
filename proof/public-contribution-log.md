@@ -351,3 +351,75 @@ Next follow-up:
 
 - Watch for maintainer reply by 2026-06-14.
 - If they provide a first fixture direction, qualify around first bundle format before any paid audit pitch.
+
+## 2026-06-12: Keiko governed handoff audit follow-up shipped
+
+Links:
+
+- Maintainer closure evidence: https://github.com/oscharko-dev/Keiko/issues/186#issuecomment-4680470980
+- Mary follow-up: https://github.com/oscharko-dev/Keiko/issues/186#issuecomment-4686677122
+
+Status: maintainer reported audit follow-up shipped via PR #947
+
+Context:
+
+- Mary previously suggested separating human approval, agent execution, patch scope, read-only evidence, unknowns, required checks, and closure evidence.
+- The maintainer later reported PR #947 shipped audit follow-up work and preserved governed handoff provenance in evidence manifests.
+- Mary followed up with a narrow remembered-context evidence-reference model for any future design.
+
+Why it matters:
+
+- This is the second strong public proof signal after `Talon#147` and `CORE#525`.
+- It shows Mary's artifact/audit advice can map to merged implementation evidence.
+- It is still not a paid client, testimonial, or revenue.
+
+Next follow-up:
+
+- Do not pitch the audit offer on this closed issue.
+- Watch for related Keiko follow-up issues around remembered context, evidence manifests, or workflow handoff.
+
+## 2026-06-12: Vulnerability evidence-bundle provenance comment
+
+Link:
+
+- https://github.com/Noetheon/vuln-prioritizer-cli/issues/29#issuecomment-4686677236
+
+Status: public comment posted
+
+Context:
+
+- The issue asks for interactive HTML reporting and stronger evidence-bundle provenance metadata.
+- Mary replied with a separation between HTML reviewer navigation, machine-readable evidence bundle, and verifier result.
+
+Why it matters:
+
+- Vulnerability prioritization is a buyer-facing domain where evidence provenance matters.
+- The comment applies Mary's current wedge to a practical offline reporting workflow.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-15.
+- If they share a manifest shape or example report, qualify around an artifact sanity check.
+
+## 2026-06-12: Signed gate-evidence bundle comment
+
+Link:
+
+- https://github.com/piyushgupta27/ai-sdlc/issues/86#issuecomment-4686677367
+
+Status: public comment posted
+
+Context:
+
+- The issue asks for per-PR signed gate evidence and a verifier required by branch protection.
+- Mary replied with a concrete bundle layout and negative fixtures that check both signature and gate semantics.
+
+Why it matters:
+
+- This fits the signed evidence/verifier niche that has been getting better engagement than general automation.
+- Required status checks are a concrete operational buyer problem: what evidence can a human trust before merge?
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-15.
+- If they engage, qualify around the first bundle/verifier contract before any paid audit pitch.

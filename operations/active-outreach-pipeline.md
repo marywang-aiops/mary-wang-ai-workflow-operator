@@ -152,6 +152,9 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-06-11 | GitHub | https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4676522556 | Follow-up on F-46 context-summary boundary and governed-change leak canary |
 | 2026-06-11 | GitHub | https://github.com/madmax983/egregore/issues/68#issuecomment-4676526612 | Redaction-safe evidence bundle verifier verdicts and protected-payload negative fixtures |
 | 2026-06-11 | GitHub | https://github.com/safal207/ProofPath/issues/161#issuecomment-4676526780 | Portable payment-guard evidence bundle and offline verifier fixtures |
+| 2026-06-12 | GitHub | https://github.com/oscharko-dev/Keiko/issues/186#issuecomment-4686677122 | Follow-up on remembered-context evidence references after PR #947 audit closure |
+| 2026-06-12 | GitHub | https://github.com/Noetheon/vuln-prioritizer-cli/issues/29#issuecomment-4686677236 | HTML report vs evidence-bundle source-of-truth split and provenance negative fixtures |
+| 2026-06-12 | GitHub | https://github.com/piyushgupta27/ai-sdlc/issues/86#issuecomment-4686677367 | Signed per-PR gate-evidence bundle layout and required-status verifier negative fixtures |
 
 ## Revenue Rule
 

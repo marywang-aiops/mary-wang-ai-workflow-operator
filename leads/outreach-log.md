@@ -215,6 +215,24 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
 - The replies focused on verifier verdict separation, coverage thresholds, protected-payload negative fixtures, offline evidence bundles, tamper detection, and privacy-boundary failures.
 - Conversion note: `CORE#525` remains the closest current lead. Do not quote price yet; wait for a fixture export, bench skeleton, or concrete artifact handoff.
 
+## 2026-06-12
+
+- Switched active GitHub CLI account to `marywang-aiops` and verified API identity before external actions.
+- Checked existing GitHub leads:
+  - `Keiko#186` maintainer reported audit follow-up shipped via PR #947, merged into `dev` with tests/checks listed.
+  - `CORE#525` has no new reply after Mary's context-summary boundary follow-up.
+  - `egregore#68`, `ProofPath#161`, `govai-core#31`, `Keiko#484`, `ashlar#11`, and `.Neon#28` have no maintainer replies after Mary's latest comments.
+  - Several older issue APIs were temporarily unresolved (`ai-audit-shelf`, `Keiko#536`, `trust-me-bro`); keep rows but verify before acting.
+  - No qualified lead, audit offer, payment, or revenue.
+- Posted one follow-up reply:
+  - `https://github.com/oscharko-dev/Keiko/issues/186#issuecomment-4686677122`
+- Searched high-fit terms: `offline verifier evidence bundle`, `redaction-safe evidence`, `tamper-evident evidence bundle`, and `evidence bundle verifier`.
+- Posted two new useful GitHub replies:
+  - `https://github.com/Noetheon/vuln-prioritizer-cli/issues/29#issuecomment-4686677236`
+  - `https://github.com/piyushgupta27/ai-sdlc/issues/86#issuecomment-4686677367`
+- The replies focused on evidence bundle provenance, HTML/report vs verifier boundaries, signed per-PR gate evidence, and negative fixtures for required status checks.
+- Conversion note: `Keiko#186` is strong proof but not a buyer. The next qualified trigger remains a shared sample artifact, bundle, verifier output, or bench skeleton.
+
 ## Daily Log Format
 
 Date:
