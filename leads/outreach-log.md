@@ -233,6 +233,25 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
 - The replies focused on evidence bundle provenance, HTML/report vs verifier boundaries, signed per-PR gate evidence, and negative fixtures for required status checks.
 - Conversion note: `Keiko#186` is strong proof but not a buyer. The next qualified trigger remains a shared sample artifact, bundle, verifier output, or bench skeleton.
 
+## 2026-06-13
+
+- Switched active GitHub CLI account to `marywang-aiops` and verified API identity before external actions.
+- Checked existing GitHub leads:
+  - `CORE#525` owner clarified ADR-100 already owns the F-46/F-37 evidence-class boundary and that D5 should route field rules into the eventual ExportManifest contract.
+  - `Talon#147`, `Keiko#186`, `Keiko#536`, `cloudporter#27`, and older high-fit comments have no new qualified artifact handoff.
+  - `ai-audit-shelf#19` still has a CLA request that requires user/legal approval.
+  - No qualified lead, audit offer, payment, or revenue.
+- Posted one follow-up reply:
+  - `https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4697097031`
+- Searched high-fit terms: `signed audit export`, `evidence bundle verifier`, `redaction-safe evidence`, `tamper-evident evidence bundle`, `audit export redaction`, and `signed gate evidence`.
+- Posted three new useful GitHub replies:
+  - `https://github.com/fermano/TC2/issues/90#issuecomment-4697103924`
+  - `https://github.com/madmax983/egregore/issues/155#issuecomment-4697103926`
+  - `https://github.com/joeszilagyi/Upkeeper/issues/661#issuecomment-4697103923`
+- The replies focused on persistence-boundary redaction, store-backup vs redaction-safe evidence bundles, and sanitized JSONL identity/collision fixtures.
+- Ran the 3-day channel/search-term review. GitHub remains the only productive channel; the best current search pockets are signed audit export leaks, redaction-safe bundle boundaries, verifier fixtures, and sanitized evidence import/export integrity.
+- Conversion note: do not quote RMB 699 yet. The next qualified trigger is still a maintainer sharing a concrete export, manifest, log sample, fixture, or verifier result for outside sanity review.
+
 ## Daily Log Format
 
 Date:

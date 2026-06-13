@@ -20,6 +20,7 @@ Use one row per day.
 | 2026-06-10 | 24 | 3 | 5 | 0 | 0 | 0 | 0 | GitHub | Weekly review: keep GitHub as main channel and narrow search further to signed export, verifier, and proof packet issues |
 | 2026-06-11 | 22 | 3 | 5 | 0 | 0 | 0 | 0 | GitHub | CORE remains closest to qualified; new evidence-bundle leads should be pushed toward sample verifier outputs |
 | 2026-06-12 | 20 | 3 | 6 | 0 | 0 | 0 | 0 | GitHub | Keiko became second strong public proof; still need a sample artifact before any paid audit offer |
+| 2026-06-13 | 18 | 4 | 6 | 0 | 0 | 0 | 0 | GitHub | 3-day review: keep the signed/evidence wedge, add audit-export redaction and sanitized JSONL integrity as adjacent high-fit pockets |
 
 ## Daily Review Questions
 

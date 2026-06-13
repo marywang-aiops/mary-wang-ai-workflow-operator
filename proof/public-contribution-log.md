@@ -423,3 +423,95 @@ Next follow-up:
 
 - Watch for maintainer reply by 2026-06-15.
 - If they engage, qualify around the first bundle/verifier contract before any paid audit pitch.
+
+## 2026-06-13: CORE evidence-class boundary follow-up
+
+Link:
+
+- https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4697097031
+
+Status: engaged follow-up posted
+
+Context:
+
+- The owner clarified that ADR-100 already owns the F-46/F-37 evidence-class boundary.
+- Mary replied by narrowing the next useful artifact to fixture behavior: an `audit_evidence` export should fail if it contains governed-change chain semantics.
+
+Why it matters:
+
+- This keeps the closest current lead moving toward a concrete verifier fixture instead of abstract strategy.
+- It is still not a qualified lead because no export skeleton, manifest, fixture, or verifier output has been shared.
+
+Next follow-up:
+
+- Watch for a first ExportManifest contract, fixture bench, or verifier error vocabulary by 2026-06-16.
+- If a sample appears, ask whether a short outside artifact review would be useful before mentioning price.
+
+## 2026-06-13: Signed audit export log redaction comment
+
+Link:
+
+- https://github.com/fermano/TC2/issues/90#issuecomment-4697103924
+
+Status: public comment posted
+
+Context:
+
+- The issue reports signed audit export query parameters being persisted in debug logs during upstream `502` delivery failures.
+- Mary replied with a persistence-boundary fix point and a regression test that checks durable stored logs, not only the diagnostic view.
+
+Why it matters:
+
+- This is a practical audit-export safety problem: the artifact may be signed correctly while operational logs leak access material.
+- It extends the wedge from bundle/verifier structure into audit-export delivery hygiene.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-16.
+- Do not comment on the duplicate TC1/TC3/TC4 issues unless explicitly invited.
+
+## 2026-06-13: Egregore complete JSONL export boundary comment
+
+Link:
+
+- https://github.com/madmax983/egregore/issues/155#issuecomment-4697103926
+
+Status: public comment posted
+
+Context:
+
+- The issue asks for full embedded-store export back to canonical JSONL for backup, migration, and round-trip proof.
+- Mary replied by separating complete store backup exports from redaction-safe evidence bundles.
+
+Why it matters:
+
+- This boundary is important for non-technical operators: "complete backup" is not automatically safe public evidence.
+- It fits the artifact-review offer because a buyer may need someone to classify what can be shared and what must stay private.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-16.
+- If they discuss manifest shape or private-payload classes, qualify around a sample export safety review.
+
+## 2026-06-13: Upkeeper sanitized JSONL identity comment
+
+Link:
+
+- https://github.com/joeszilagyi/Upkeeper/issues/661#issuecomment-4697103923
+
+Status: public comment posted
+
+Context:
+
+- The issue reports a possible `table:None` logical-key collapse when sanitized JSONL payloads lose primary-key fields before import conflict handling.
+- Mary replied with explicit identity cases and a regression fixture where two distinct sanitized rows must not collapse into one logical conflict key.
+
+Why it matters:
+
+- This is a data-integrity audit example, adjacent to the evidence-export wedge.
+- It shows Mary can review not only signatures and manifests, but also whether sanitized artifacts preserve enough identity to support reliable import/conflict decisions.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-16.
+- If a fixture or importer behavior question appears, qualify around artifact sanity checking.

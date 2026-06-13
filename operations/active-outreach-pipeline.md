@@ -155,6 +155,10 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-06-12 | GitHub | https://github.com/oscharko-dev/Keiko/issues/186#issuecomment-4686677122 | Follow-up on remembered-context evidence references after PR #947 audit closure |
 | 2026-06-12 | GitHub | https://github.com/Noetheon/vuln-prioritizer-cli/issues/29#issuecomment-4686677236 | HTML report vs evidence-bundle source-of-truth split and provenance negative fixtures |
 | 2026-06-12 | GitHub | https://github.com/piyushgupta27/ai-sdlc/issues/86#issuecomment-4686677367 | Signed per-PR gate-evidence bundle layout and required-status verifier negative fixtures |
+| 2026-06-13 | GitHub | https://github.com/DariuszNewecki/CORE/issues/525#issuecomment-4697097031 | Follow-up turning ADR-100 evidence-class boundary into governed-change leak fixture behavior |
+| 2026-06-13 | GitHub | https://github.com/fermano/TC2/issues/90#issuecomment-4697103924 | Signed audit export URL redaction at persistence boundary and durable-log regression test |
+| 2026-06-13 | GitHub | https://github.com/madmax983/egregore/issues/155#issuecomment-4697103926 | Complete JSONL backup export vs redaction-safe evidence bundle boundary |
+| 2026-06-13 | GitHub | https://github.com/joeszilagyi/Upkeeper/issues/661#issuecomment-4697103923 | Sanitized JSONL missing primary-key identity cases and conflict-key regression fixture |
 
 ## Revenue Rule
 
