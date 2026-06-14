@@ -21,6 +21,7 @@ Use one row per day.
 | 2026-06-11 | 22 | 3 | 5 | 0 | 0 | 0 | 0 | GitHub | CORE remains closest to qualified; new evidence-bundle leads should be pushed toward sample verifier outputs |
 | 2026-06-12 | 20 | 3 | 6 | 0 | 0 | 0 | 0 | GitHub | Keiko became second strong public proof; still need a sample artifact before any paid audit offer |
 | 2026-06-13 | 18 | 4 | 6 | 0 | 0 | 0 | 0 | GitHub | 3-day review: keep the signed/evidence wedge, add audit-export redaction and sanitized JSONL integrity as adjacent high-fit pockets |
+| 2026-06-14 | 22 | 5 | 7 | 0 | 0 | 0 | 0 | GitHub | GovAI Core became engaged; continue pushing toward sample verifier outputs before any audit offer |
 
 ## Daily Review Questions
 

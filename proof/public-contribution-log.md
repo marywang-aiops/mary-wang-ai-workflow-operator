@@ -515,3 +515,119 @@ Next follow-up:
 
 - Watch for maintainer reply by 2026-06-16.
 - If a fixture or importer behavior question appears, qualify around artifact sanity checking.
+
+## 2026-06-14: GovAI Core structured verifier result follow-up
+
+Link:
+
+- https://github.com/MonikaDvorackova/govai-core/issues/31#issuecomment-4700407598
+
+Status: maintainer engaged; Mary follow-up posted
+
+Context:
+
+- The maintainer proposed a Rust `VerificationResult` with staged verification fields and an overall verdict.
+- Mary replied with stable machine-readable reason codes, stage status separation, and fixture-per-code serialized output snapshots.
+
+Why it matters:
+
+- This is a high-fit engaged lead for the signed audit verifier wedge.
+- It moves from broad advice into a concrete API contract discussion.
+- It is still not a qualified lead because no sample bundle, manifest, or verifier output has been shared.
+
+Next follow-up:
+
+- Watch for schema/fixture updates by 2026-06-17.
+- If a serialized `VerificationResult` or fixture appears, ask whether a short outside artifact review would help before mentioning price.
+
+## 2026-06-14: Verification and defamation publish-gate comment
+
+Link:
+
+- https://github.com/benseverndev-oss/goldenmatch-shell-company-network/issues/160#issuecomment-4700411308
+
+Status: public comment posted
+
+Context:
+
+- The issue asks for evidence bundles, primary-source deep links, and a verification/defamation checklist before publishing leads.
+- Mary replied with a machine-readable dossier and `publish_gate` status record, plus negative fixtures for unreachable sources, unsupported claims, and checklist mismatch.
+
+Why it matters:
+
+- This is a sensitive public-evidence workflow where artifact boundaries matter.
+- It fits Mary's review position: make evidence reviewable before publication, not just visually documented.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-17.
+- Qualify only if they share a dossier schema, checklist output, or publish gate artifact.
+
+## 2026-06-14: Reviewer-ready export DoD comment
+
+Link:
+
+- https://github.com/fderuiter/CRF.xl/issues/56#issuecomment-4700411295
+
+Status: public comment posted
+
+Context:
+
+- The issue is a reviewer-ready export epic and GitHub Actions flagged that an Evidence Required / Definition of Done section is missing.
+- Mary replied with an export manifest, verification report, regeneration rule, blocker rule, and mismatched-hash negative fixture.
+
+Why it matters:
+
+- Reviewer package completeness is a clear audit-artifact problem.
+- This expands the wedge beyond security repos into document/reviewer workflow exports.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-17.
+- If a reviewer package or verification report format appears, qualify around an artifact sanity check.
+
+## 2026-06-14: Robinhood MCP credential redaction comment
+
+Link:
+
+- https://github.com/quantam101/tradegate2/issues/10#issuecomment-4700411296
+
+Status: public comment posted
+
+Context:
+
+- The issue asks for scanner/runtime/UI/audit-log redaction for private brokerage identifiers and connection secrets.
+- Mary replied with durable-boundary redaction tests, stored-log assertions, nested payload fixtures, and keyed digest/surrogate guidance.
+
+Why it matters:
+
+- Financial identifiers are high-sensitivity artifacts.
+- This is a practical example of making audit logs useful without leaking private account material.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-17.
+- If they share an event schema or redaction fixture, qualify around artifact-safety review.
+
+## 2026-06-14: Audit log redaction hardening comment
+
+Link:
+
+- https://github.com/jovillal/placamia/issues/67#issuecomment-4700411293
+
+Status: public comment posted
+
+Context:
+
+- The issue asks to harden audit logging redaction beyond sensitive key names and document role handling.
+- Mary replied with key-based and value-shape redaction layers, reason tags, and a nested regression fixture.
+
+Why it matters:
+
+- This is a moderate-fit audit artifact safety example.
+- It reinforces Mary's pattern: make redaction testable at the stored artifact layer, not only in presentation.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-17.
+- Qualify only if they share the current audit log policy or fixture structure.

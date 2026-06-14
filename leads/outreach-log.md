@@ -252,6 +252,26 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
 - Ran the 3-day channel/search-term review. GitHub remains the only productive channel; the best current search pockets are signed audit export leaks, redaction-safe bundle boundaries, verifier fixtures, and sanitized evidence import/export integrity.
 - Conversion note: do not quote RMB 699 yet. The next qualified trigger is still a maintainer sharing a concrete export, manifest, log sample, fixture, or verifier result for outside sanity review.
 
+## 2026-06-14
+
+- Switched active GitHub CLI account to `marywang-aiops` and verified API identity before external actions.
+- Checked existing GitHub leads:
+  - `govai-core#31` maintainer replied with a proposed Rust `VerificationResult` stage model and asked whether it matches the intended verifier output structure.
+  - `CORE#525` has no new reply after Mary's governed-change leak fixture follow-up.
+  - `TC2#90`, `egregore#155`, and `Upkeeper#661` have no new replies yet.
+  - `ai-audit-shelf#19` still has a CLA request that requires user/legal approval.
+  - No qualified lead, audit offer, payment, or revenue.
+- Posted one engaged follow-up reply:
+  - `https://github.com/MonikaDvorackova/govai-core/issues/31#issuecomment-4700407598`
+- Searched high-fit terms: `audit export redaction`, `evidence bundle verifier`, `export manifest verifier`, `redaction report audit`, `reviewer ready export manifest`, `audit log redaction`, `verification defamation checklist`, and `evidence checklist publish gate`.
+- Posted four new useful GitHub replies:
+  - `https://github.com/benseverndev-oss/goldenmatch-shell-company-network/issues/160#issuecomment-4700411308`
+  - `https://github.com/fderuiter/CRF.xl/issues/56#issuecomment-4700411295`
+  - `https://github.com/quantam101/tradegate2/issues/10#issuecomment-4700411296`
+  - `https://github.com/jovillal/placamia/issues/67#issuecomment-4700411293`
+- The replies focused on machine-readable publish gates, reviewer-ready export DoD, durable-boundary redaction, and value-shape audit-log redaction fixtures.
+- Conversion note: `govai-core#31` moved from commented to engaged. Still do not pitch RMB 699 until a maintainer shares a concrete bundle, manifest, fixture, log record, or verifier output.
+
 ## Daily Log Format
 
 Date:

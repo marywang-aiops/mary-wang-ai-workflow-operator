@@ -159,6 +159,11 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-06-13 | GitHub | https://github.com/fermano/TC2/issues/90#issuecomment-4697103924 | Signed audit export URL redaction at persistence boundary and durable-log regression test |
 | 2026-06-13 | GitHub | https://github.com/madmax983/egregore/issues/155#issuecomment-4697103926 | Complete JSONL backup export vs redaction-safe evidence bundle boundary |
 | 2026-06-13 | GitHub | https://github.com/joeszilagyi/Upkeeper/issues/661#issuecomment-4697103923 | Sanitized JSONL missing primary-key identity cases and conflict-key regression fixture |
+| 2026-06-14 | GitHub | https://github.com/MonikaDvorackova/govai-core/issues/31#issuecomment-4700407598 | Follow-up on stable verifier reason codes and fixture-per-code serialized VerificationResult snapshots |
+| 2026-06-14 | GitHub | https://github.com/benseverndev-oss/goldenmatch-shell-company-network/issues/160#issuecomment-4700411308 | Machine-readable evidence dossier and publish gate for verification/defamation checklist |
+| 2026-06-14 | GitHub | https://github.com/fderuiter/CRF.xl/issues/56#issuecomment-4700411295 | Reviewer-ready export DoD with manifest, verification report, regeneration, and mismatch fixture |
+| 2026-06-14 | GitHub | https://github.com/quantam101/tradegate2/issues/10#issuecomment-4700411296 | Robinhood MCP durable-boundary redaction and keyed fingerprint guidance |
+| 2026-06-14 | GitHub | https://github.com/jovillal/placamia/issues/67#issuecomment-4700411293 | Audit log key/value-shape redaction policy and nested regression fixture |
 
 ## Revenue Rule
 
