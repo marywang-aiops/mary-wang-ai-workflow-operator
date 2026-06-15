@@ -164,6 +164,11 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-06-14 | GitHub | https://github.com/fderuiter/CRF.xl/issues/56#issuecomment-4700411295 | Reviewer-ready export DoD with manifest, verification report, regeneration, and mismatch fixture |
 | 2026-06-14 | GitHub | https://github.com/quantam101/tradegate2/issues/10#issuecomment-4700411296 | Robinhood MCP durable-boundary redaction and keyed fingerprint guidance |
 | 2026-06-14 | GitHub | https://github.com/jovillal/placamia/issues/67#issuecomment-4700411293 | Audit log key/value-shape redaction policy and nested regression fixture |
+| 2026-06-15 | GitHub | https://github.com/MonikaDvorackova/govai-core/issues/31#issuecomment-4703914279 | Follow-up accepting a small contract-first verifier contribution scope |
+| 2026-06-15 | GitHub PR | https://github.com/safal207/ProofPath/pull/164 | Added Evidence Bundle v0.1 fixture contract README |
+| 2026-06-15 | GitHub | https://github.com/safal207/ProofPath/issues/161#issuecomment-4703913376 | Linked ProofPath fixture-contract PR back to the milestone issue |
+| 2026-06-15 | GitHub | https://github.com/marctjones/pdfe/issues/466#issuecomment-4703918179 | PDF signature verification structured result states and trust-overclaim fixtures |
+| 2026-06-15 | GitHub | https://github.com/equaltoai/lesser-body/issues/332#issuecomment-4703918181 | MCP tool result vs durable audit-log redaction boundary and nested bearer/JWT fixtures |
 
 ## Revenue Rule
 

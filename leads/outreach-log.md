@@ -272,6 +272,27 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
 - The replies focused on machine-readable publish gates, reviewer-ready export DoD, durable-boundary redaction, and value-shape audit-log redaction fixtures.
 - Conversion note: `govai-core#31` moved from commented to engaged. Still do not pitch RMB 699 until a maintainer shares a concrete bundle, manifest, fixture, log record, or verifier output.
 
+## 2026-06-15
+
+- Switched active GitHub CLI account to `marywang-aiops` and verified API identity before external actions.
+- Checked existing GitHub leads:
+  - `govai-core#31` maintainer invited Mary to contribute part of the verifier result model, reason code taxonomy, or fixture structure.
+  - `ProofPath#161` maintainer accepted the v0.1 offline evidence bundle direction and proposed adding a fixture directory plus README reviewer flow.
+  - `CORE#525`, `TC2#90`, `egregore#155`, `Upkeeper#661`, and 2026-06-14 new leads have no new replies yet.
+  - `ai-audit-shelf#19` still has a CLA request that requires user/legal approval.
+  - No paid audit, audit offer, or revenue.
+- Posted two engaged follow-up replies:
+  - `https://github.com/MonikaDvorackova/govai-core/issues/31#issuecomment-4703914279`
+  - `https://github.com/safal207/ProofPath/issues/161#issuecomment-4703913376`
+- Created one public contribution PR:
+  - `https://github.com/safal207/ProofPath/pull/164`
+- Searched high-fit terms: `offline verifier evidence bundle`, `verification result reason codes`, `privacy report evidence bundle`, `manifest hash mismatch verifier`, `audit manifest verifier`, `redaction verifier`, `reviewer package manifest`, and `evidence pack privacy verifier`.
+- Posted two new useful GitHub replies:
+  - `https://github.com/marctjones/pdfe/issues/466#issuecomment-4703918179`
+  - `https://github.com/equaltoai/lesser-body/issues/332#issuecomment-4703918181`
+- The replies focused on structured verifier result states, avoiding trust overclaims, caller-facing vs durable-log redaction boundaries, and nested bearer/JWT leak fixtures.
+- Conversion note: `ProofPath#161` is now strong public proof and near-qualified artifact discussion, but still not a paid lead because the current ask is open-source contribution review.
+
 ## Daily Log Format
 
 Date:

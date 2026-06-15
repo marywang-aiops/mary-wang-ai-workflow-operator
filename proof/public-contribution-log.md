@@ -631,3 +631,97 @@ Next follow-up:
 
 - Watch for maintainer reply by 2026-06-17.
 - Qualify only if they share the current audit log policy or fixture structure.
+
+## 2026-06-15: GovAI Core contribution scope follow-up
+
+Link:
+
+- https://github.com/MonikaDvorackova/govai-core/issues/31#issuecomment-4703914279
+
+Status: maintainer invited contribution; Mary replied with narrow contribution scope
+
+Context:
+
+- The maintainer asked whether Mary would contribute part of the `VerificationResult` model, reason-code taxonomy, or fixture structure.
+- Mary replied that a small contract-first PR would be appropriate, preferably fixture contract first unless the Rust type location is already settled.
+
+Why it matters:
+
+- This is the clearest direct invitation so far for Mary to contribute to a real verifier contract.
+- It is not revenue yet, but it is strong public proof for the audit artifact review wedge.
+
+Next follow-up:
+
+- Watch for maintainer preference by 2026-06-18.
+- If they identify a concrete module or fixture path, decide whether to open a small PR or ask for a sample artifact review scope.
+
+## 2026-06-15: ProofPath evidence bundle fixture PR
+
+Links:
+
+- PR: https://github.com/safal207/ProofPath/pull/164
+- Issue follow-up: https://github.com/safal207/ProofPath/issues/161#issuecomment-4703913376
+
+Status: public PR opened from Mary fork
+
+Context:
+
+- The maintainer accepted the v0.1 offline evidence bundle direction and proposed adding a fixture directory plus README reviewer flow.
+- Mary opened a narrow docs/fixture-contract PR adding `fixtures/evidence-bundle-v0.1/README.md`.
+
+Why it matters:
+
+- This is a concrete public contribution beyond comments.
+- It demonstrates Mary can turn an audit-verifier discussion into a reviewable artifact without overclaiming implementation completeness.
+- It is still not a paid client, testimonial, or revenue.
+
+Next follow-up:
+
+- Watch PR #164 for review by 2026-06-18.
+- If accepted, record it as public proof; if maintainer asks for actual sample fixtures, keep scope narrow and avoid giving away a full paid audit package unless it clearly advances conversion.
+
+## 2026-06-15: PDF signature verifier result-state comment
+
+Link:
+
+- https://github.com/marctjones/pdfe/issues/466#issuecomment-4703918179
+
+Status: public comment posted
+
+Context:
+
+- The issue asks for signature trust-chain validation and clearer result states, including ByteRange/CMS integrity, certificate trust, and document modification state.
+- Mary replied with a structured result model, first-class `unknown` trust handling, and fixture snapshots for both verifier state and UI phrase.
+
+Why it matters:
+
+- It is a strong example of Mary reducing audit overclaim risk: a valid low-level signature is not the same as trusted signer status.
+- The topic maps directly to buyer-facing verifier result reviews.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-18.
+- If result models or fixture examples appear, qualify around a short verifier-result sanity review.
+
+## 2026-06-15: MCP orchestration redaction boundary comment
+
+Link:
+
+- https://github.com/equaltoai/lesser-body/issues/332#issuecomment-4703918181
+
+Status: public comment posted
+
+Context:
+
+- The issue asks to verify that instance keys, JWTs, and bearer tokens never appear in orchestration tool results or audit logs.
+- Mary replied with separate assertions for caller-facing `toolJSONResult()` and durable audit/log output, plus nested secret leak fixtures.
+
+Why it matters:
+
+- This keeps the redaction wedge focused on artifact boundaries, not cosmetic output cleanup.
+- It is a practical operator trust problem in MCP-style tool orchestration.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-18.
+- If they share handler/test structure, qualify around audit-output redaction review.
