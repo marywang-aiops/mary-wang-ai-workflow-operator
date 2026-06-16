@@ -169,6 +169,10 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-06-15 | GitHub | https://github.com/safal207/ProofPath/issues/161#issuecomment-4703913376 | Linked ProofPath fixture-contract PR back to the milestone issue |
 | 2026-06-15 | GitHub | https://github.com/marctjones/pdfe/issues/466#issuecomment-4703918179 | PDF signature verification structured result states and trust-overclaim fixtures |
 | 2026-06-15 | GitHub | https://github.com/equaltoai/lesser-body/issues/332#issuecomment-4703918181 | MCP tool result vs durable audit-log redaction boundary and nested bearer/JWT fixtures |
+| 2026-06-16 | GitHub PR | https://github.com/MonikaDvorackova/govai-core/pull/108 | Added audit export verifier fixture contract doc |
+| 2026-06-16 | GitHub | https://github.com/MonikaDvorackova/govai-core/issues/31#issuecomment-4714173807 | Linked GovAI Core fixture-contract PR back to verifier issue |
+| 2026-06-16 | GitHub | https://github.com/syndicalt/rava/issues/122#issuecomment-4714178050 | Production audit export manifest, privacy class, tamper-evidence, and non-claim boundaries |
+| 2026-06-16 | GitHub | https://github.com/pokekarten/igentic-iphone/issues/13#issuecomment-4714178043 | Typed policy reason-code serialization and smoke-test boundary |
 
 ## Revenue Rule
 

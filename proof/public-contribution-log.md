@@ -725,3 +725,97 @@ Next follow-up:
 
 - Watch for maintainer reply by 2026-06-18.
 - If they share handler/test structure, qualify around audit-output redaction review.
+
+## 2026-06-16: ProofPath fixture contract merged
+
+Link:
+
+- https://github.com/safal207/ProofPath/pull/164
+
+Status: merged public PR
+
+Context:
+
+- Mary opened a docs-only fixture contract for the ProofPath v0.1 offline evidence bundle.
+- The maintainer reviewed it as the right first-pass contract and merged it.
+
+Why it matters:
+
+- This is the strongest public proof so far: a maintainer accepted a Mary-authored audit artifact contract.
+- It shows Mary can convert a verifier discussion into a merged, bounded artifact without fake data or implementation overclaims.
+- It is still not a paid client, testimonial, or revenue.
+
+Next follow-up:
+
+- Watch related ProofPath follow-up issue #165 by 2026-06-19.
+- Do not expand into full implementation unless it clearly supports conversion or a scoped paid artifact review.
+
+## 2026-06-16: GovAI Core audit verifier fixture contract PR
+
+Links:
+
+- PR: https://github.com/MonikaDvorackova/govai-core/pull/108
+- Issue follow-up: https://github.com/MonikaDvorackova/govai-core/issues/31#issuecomment-4714173807
+
+Status: public PR opened from Mary fork
+
+Context:
+
+- The maintainer asked for fixture contract first, before Rust verifier types.
+- Mary opened a docs-only PR defining reason codes, staged result expectations, fixture matrix, and serialized output invariants.
+
+Why it matters:
+
+- This is a second PR-level proof asset in the same audit-verifier wedge.
+- It further narrows Mary's strongest public identity: verifier/result contract reviewer for audit exports.
+
+Next follow-up:
+
+- Watch PR #108 for review by 2026-06-19.
+- If accepted, record as public proof; if requested changes appear, address them narrowly.
+
+## 2026-06-16: Rava production audit export boundary comment
+
+Link:
+
+- https://github.com/syndicalt/rava/issues/122#issuecomment-4714178050
+
+Status: public comment posted
+
+Context:
+
+- The issue tracks production audit storage, retention, export, tamper evidence, legal hold, and sensitive-payload boundaries.
+- Mary replied with an `export_manifest.json` shape and a negative fixture where raw sensitive payload dependency fails production-readiness review.
+
+Why it matters:
+
+- Production audit export is close to a buyer-facing artifact review problem.
+- The comment emphasizes clear non-claims: local preview export is not managed production audit storage.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-19.
+- If they share an export manifest or test evidence, qualify around an artifact review.
+
+## 2026-06-16: igentic typed policy reason-code comment
+
+Link:
+
+- https://github.com/pokekarten/igentic-iphone/issues/13#issuecomment-4714178043
+
+Status: public comment posted
+
+Context:
+
+- The issue asks for typed policy decision reason codes so policy behavior is easier to test, audit, and document.
+- Mary replied with a stable decision/reason/message/evidence shape and smoke tests for important policy paths.
+
+Why it matters:
+
+- This is a smaller but clean verifier-contract example.
+- It reinforces Mary's emphasis on stable result codes instead of fragile prose parsing.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-19.
+- Qualify only if they ask for help with serialization, fixture design, or policy result review.

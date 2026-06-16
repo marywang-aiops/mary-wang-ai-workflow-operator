@@ -293,6 +293,27 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
 - The replies focused on structured verifier result states, avoiding trust overclaims, caller-facing vs durable-log redaction boundaries, and nested bearer/JWT leak fixtures.
 - Conversion note: `ProofPath#161` is now strong public proof and near-qualified artifact discussion, but still not a paid lead because the current ask is open-source contribution review.
 
+## 2026-06-16
+
+- Switched active GitHub CLI account to `marywang-aiops` and verified API identity before external actions.
+- Checked existing GitHub leads:
+  - `ProofPath#164` was merged. Maintainer called it the right v0.1 fixture-contract foundation and kept v0.2 causal receipts separate.
+  - `govai-core#31` maintainer explicitly requested a fixture contract first before Rust type definitions.
+  - `CORE#525`, `TC2#90`, `egregore#155`, `Upkeeper#661`, and 2026-06-14/15 new leads have no new paid-intent replies yet.
+  - `jovillal/placamia#67` and `trust-me-bro#31` API checks still fail intermittently; keep rows but verify manually before acting.
+  - `ai-audit-shelf#19` still has a CLA request that requires user/legal approval.
+  - No paid audit, audit offer, or revenue.
+- Created one public contribution PR:
+  - `https://github.com/MonikaDvorackova/govai-core/pull/108`
+- Posted one engaged follow-up reply:
+  - `https://github.com/MonikaDvorackova/govai-core/issues/31#issuecomment-4714173807`
+- Searched high-fit terms: `audit export verifier`, `verifier reason codes`, `fixture contract verifier`, `evidence bundle fixture`, `audit manifest verifier`, `redaction verifier`, `reviewer package manifest`, and `evidence pack privacy verifier`.
+- Posted two new useful GitHub replies:
+  - `https://github.com/syndicalt/rava/issues/122#issuecomment-4714178050`
+  - `https://github.com/pokekarten/igentic-iphone/issues/13#issuecomment-4714178043`
+- Ran the 3-day channel/search-term review. GitHub remains the only productive channel; PR-level contribution proof is now stronger than broad comment volume.
+- Conversion note: proof quality improved, but no paid lead yet. The next offer should wait for a maintainer or founder to hand over a concrete export/fixture/log artifact for outside review.
+
 ## Daily Log Format
 
 Date:
