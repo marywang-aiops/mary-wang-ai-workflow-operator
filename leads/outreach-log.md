@@ -314,6 +314,24 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
 - Ran the 3-day channel/search-term review. GitHub remains the only productive channel; PR-level contribution proof is now stronger than broad comment volume.
 - Conversion note: proof quality improved, but no paid lead yet. The next offer should wait for a maintainer or founder to hand over a concrete export/fixture/log artifact for outside review.
 
+## 2026-06-17
+
+- Switched active GitHub CLI account to `marywang-aiops` and verified API identity before external actions.
+- Checked due and recent GitHub leads:
+  - `govai-core#108` is still open with no reviews or comments yet.
+  - `govai-core#31` has no new reply after Mary's PR link.
+  - `ProofPath#164` remains merged and is the strongest public proof asset.
+  - `talon#147`, `Keiko#536`, and older engaged leads had historical maintainer interaction but no new qualified handoff today.
+  - `jovillal/placamia#67` and `trust-me-bro#31` still return API 404 from the current GitHub context.
+  - No qualified lead, audit offer, payment, or revenue.
+- Ran the week-4 review and 28-day pivot check.
+- Searched higher-intent terms: `audit export`, `evidence bundle`, `verifier reason codes`, `redaction audit log`, `SOC2 audit evidence`, and `compliance evidence automation`.
+- Posted two new useful GitHub replies:
+  - `https://github.com/msaad00/agent-bom/issues/2929#issuecomment-4725253357`
+  - `https://github.com/voltron-1/UIW-Cyber-Defence-Platform/issues/82#issuecomment-4725257625`
+- The replies focused on hosted evidence lake manifest boundaries, tenant isolation, replay/diff stability, fail-closed compliance metadata, and CISO report coverage denominators.
+- Pivot conclusion: GitHub is still useful for proof and high-signal contacts, but comment volume alone is not creating qualified buyers. The next conversion trigger is a maintainer/founder sharing one concrete artifact sample: manifest, export, report, log, fixture, reviewer package, or verifier output.
+
 ## Daily Log Format
 
 Date:

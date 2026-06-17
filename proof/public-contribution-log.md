@@ -819,3 +819,49 @@ Next follow-up:
 
 - Watch for maintainer reply by 2026-06-19.
 - Qualify only if they ask for help with serialization, fixture design, or policy result review.
+
+## 2026-06-17: agent-bom hosted evidence lake comment
+
+Link:
+
+- https://github.com/msaad00/agent-bom/issues/2929#issuecomment-4725253357
+
+Status: public comment posted
+
+Context:
+
+- The issue proposes a hosted evidence lake for retained graph history, cross-scan diffing, audit chain, and compliance evidence bundles.
+- Mary replied with a boundary between the query store and exported evidence bundle, including tenant isolation, source snapshot, graph/finding digests, retention policy, legal hold, redaction class, and manifest verification.
+
+Why it matters:
+
+- This is a strong SaaS/compliance-adjacent version of the Audit Artifact Review offer.
+- It moves Mary's proof base from issue-level advice toward buyer-relevant evidence architecture: retained history that can be trusted, compared, and exported.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-20.
+- If they share a sample manifest, export shape, or evidence lake contract, qualify for paid artifact review.
+
+## 2026-06-17: UIW compliance evidence automation comment
+
+Link:
+
+- https://github.com/voltron-1/UIW-Cyber-Defence-Platform/issues/82#issuecomment-4725257625
+
+Status: public comment posted
+
+Context:
+
+- The issue asks for compliance evidence automation where Sigma rules and SOP metadata generate CISO report coverage.
+- Mary replied with a fail-closed metadata contract, visible coverage denominator, unmapped IDs, invalid-ID handling, deprecated artifact handling, and no-demo-fallback tests.
+
+Why it matters:
+
+- This is directly tied to compliance report evidence, not generic AI workflow cleanup.
+- It gives Mary another public example of turning an ambiguous report requirement into an auditable artifact contract.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-20.
+- If they provide sample rule/SOP metadata or ask for report artifact review, qualify and send the Audit Artifact Review scope email.

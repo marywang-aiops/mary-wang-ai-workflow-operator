@@ -1,6 +1,73 @@
 # Email Templates
 
-Use these templates to convert interest into a paid AI Workflow Audit.
+Use these templates to convert interest into a paid Audit Artifact Review or AI Workflow Audit.
+
+## 0. Audit Artifact Review - First Reply To Qualified Lead
+
+Subject:
+
+`Re: Audit Artifact Review`
+
+Body:
+
+```text
+Hi,
+
+Thanks for the context.
+
+This looks like a possible fit for an Audit Artifact Review. To confirm scope, please send or point me to one concrete sample:
+
+1. Manifest, export, report, log, fixture, reviewer package, verifier output, or draft spec.
+2. Who needs to consume it: human reviewer, CI, teammate, client, auditor, or agent.
+3. What decision the artifact should support: pass/fail, approve/block, report coverage, handoff, or review.
+4. Any fields that are sensitive and should be removed or anonymized before review.
+
+Price:
+RMB 699 / USD 99
+
+Delivery:
+Within 48 hours after scope and payment are confirmed.
+
+Payment:
+WeChat Pay or Alipay is available after I confirm the scope.
+
+Mary Wang
+```
+
+## 0.1 Audit Artifact Review - Scope Confirmed
+
+Subject:
+
+`Audit Artifact Review - Scope Confirmed`
+
+Body:
+
+```text
+Hi,
+
+I reviewed the sample and this fits the Audit Artifact Review.
+
+Scope:
+[write the artifact and review goal in one sentence]
+
+You will receive:
+- artifact map
+- missing field list
+- risk and ambiguity list
+- output shape suggestion
+- human handoff checklist
+- smallest next build recommendation
+
+Price:
+RMB 699
+
+Delivery:
+Within 48 hours after payment and final materials are confirmed.
+
+If this works for you, I can send the WeChat Pay or Alipay QR code.
+
+Mary Wang
+```
 
 ## 1. First Reply To Interested Buyer
 
@@ -136,4 +203,3 @@ If now is not the right time, no problem.
 
 Mary Wang
 ```
-
