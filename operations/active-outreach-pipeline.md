@@ -175,6 +175,9 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-06-16 | GitHub | https://github.com/pokekarten/igentic-iphone/issues/13#issuecomment-4714178043 | Typed policy reason-code serialization and smoke-test boundary |
 | 2026-06-17 | GitHub | https://github.com/msaad00/agent-bom/issues/2929#issuecomment-4725253357 | Hosted evidence lake vs exported evidence manifest boundary, tenant isolation, diff stability, redaction, and retention tests |
 | 2026-06-17 | GitHub | https://github.com/voltron-1/UIW-Cyber-Defence-Platform/issues/82#issuecomment-4725257625 | Fail-closed rule/SOP metadata contract, coverage denominator output, unmapped IDs, and no-demo-fallback tests |
+| 2026-06-18 | GitHub | https://github.com/marctjones/pdfe/issues/466#issuecomment-4737175012 | Follow-up on signature trust validation release scope, trust-state matrix, and UI overclaim invariant |
+| 2026-06-18 | GitHub | https://github.com/walter-robson/sportsml/issues/31#issuecomment-4737180945 | SOC2 evidence inventory, Type I vs Type II implementation framing, and traceable control evidence |
+| 2026-06-18 | GitHub | https://github.com/stylusnexus/agent-armor/issues/24#issuecomment-4737182178 | Audit event record vs evidence package vs control claim split, package digest, and tamper/no-raw-content tests |
 
 ## Revenue Rule
 

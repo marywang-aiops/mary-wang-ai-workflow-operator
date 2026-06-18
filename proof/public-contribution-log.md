@@ -865,3 +865,72 @@ Next follow-up:
 
 - Watch for maintainer reply by 2026-06-20.
 - If they provide sample rule/SOP metadata or ask for report artifact review, qualify and send the Audit Artifact Review scope email.
+
+## 2026-06-18: pdfe signature trust validation follow-up
+
+Link:
+
+- https://github.com/marctjones/pdfe/issues/466#issuecomment-4737175012
+
+Status: engaged follow-up posted
+
+Context:
+
+- The maintainer clarified that the current release does not claim OS/certificate-chain trust validation and that README/CHANGELOG document the limitation.
+- Mary replied with a trust-state acceptance matrix and a UI invariant: stronger trust language should only appear when certificate-chain trust is explicitly `trusted`.
+
+Why it matters:
+
+- This is a clean example of Mary turning a release limitation into a testable product-safety contract.
+- It reinforces the Audit Artifact Review wedge around verifier result states and overclaim prevention.
+
+Next follow-up:
+
+- Watch for fixture/result-model discussion by 2026-06-21.
+- Qualify only if a concrete result model, fixture, or review artifact is shared.
+
+## 2026-06-18: sportsml SOC2 readiness comment
+
+Link:
+
+- https://github.com/walter-robson/sportsml/issues/31#issuecomment-4737180945
+
+Status: public comment posted
+
+Context:
+
+- The issue says SOC2 is a deal-blocker for NBA enterprise sales and asks about vendor selection, control mapping, evidence automation, and Type I vs Type II.
+- Mary replied with a practical control/evidence inventory shape and a sequence: prove control design and evidence sources first, then build operating history.
+
+Why it matters:
+
+- This is one of the clearest commercial-intent leads so far because the issue ties compliance evidence directly to sales.
+- It keeps Mary out of certification claims while showing useful artifact-operator judgment.
+
+Next follow-up:
+
+- Watch for owner reply by 2026-06-21.
+- If they share a control matrix, evidence list, or readiness artifact, qualify for Audit Artifact Review.
+
+## 2026-06-18: Agent Armor audit-evidence package comment
+
+Link:
+
+- https://github.com/stylusnexus/agent-armor/issues/24#issuecomment-4737182178
+
+Status: public comment posted
+
+Context:
+
+- The issue proposes diagnostics callbacks and durable audit-evidence records for agent scans.
+- Mary replied by separating event record, evidence package, and control claim, then suggested package digest and no-raw-content/tamper reconciliation tests.
+
+Why it matters:
+
+- This is highly aligned with the audit artifact wedge: agent systems need durable proof without leaking raw content.
+- It provides a reusable public proof example for evidence package design.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-21.
+- If they share an audit record/export sample or ask for package review, qualify.

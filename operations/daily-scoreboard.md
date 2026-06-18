@@ -25,6 +25,7 @@ Use one row per day.
 | 2026-06-15 | 18 | 4 | 8 | 0 | 0 | 0 | 0 | GitHub | ProofPath produced a public PR proof; still no paid conversion, so next step is artifact-review offer only after concrete sample handoff |
 | 2026-06-16 | 16 | 4 | 8 | 0 | 0 | 0 | 0 | GitHub | 3-day review: contribution proof is improving; keep pushing verifier contracts while adding explicit paid-artifact-review CTA only after sample handoff |
 | 2026-06-17 | 20 | 2 | 8 | 0 | 0 | 0 | 0 | GitHub | 28-day pivot: GitHub creates proof but not qualified buyers yet; narrow to evidence/compliance artifact owners and ask for one real sample before quoting |
+| 2026-06-18 | 24 | 3 | 9 | 0 | 0 | 0 | 0 | GitHub | pdfe moved to engaged; strongest new angle is commercial compliance evidence, but still wait for a concrete artifact sample before quoting |
 
 ## Daily Review Questions
 

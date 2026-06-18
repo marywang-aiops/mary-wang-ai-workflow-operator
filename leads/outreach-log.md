@@ -332,6 +332,24 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
 - The replies focused on hosted evidence lake manifest boundaries, tenant isolation, replay/diff stability, fail-closed compliance metadata, and CISO report coverage denominators.
 - Pivot conclusion: GitHub is still useful for proof and high-signal contacts, but comment volume alone is not creating qualified buyers. The next conversion trigger is a maintainer/founder sharing one concrete artifact sample: manifest, export, report, log, fixture, reviewer package, or verifier output.
 
+## 2026-06-18
+
+- Switched active GitHub CLI account to `marywang-aiops` and verified API identity before external actions.
+- Checked high-value and due GitHub leads:
+  - `pdfe#466` maintainer replied with a release-scope update: current shipped behavior does not claim OS/certificate-chain trust validation, and the limitation is documented.
+  - `govai-core#108` remains open with no review or comments yet.
+  - `agent-bom#2929` and `UIW#82` have no new replies after Mary's 2026-06-17 comments.
+  - `jovillal/placamia#67` still returns API 404 from the current GitHub context.
+  - No qualified lead, audit offer, payment, or revenue.
+- Posted one engaged follow-up reply:
+  - `https://github.com/marctjones/pdfe/issues/466#issuecomment-4737175012`
+- Searched adjacent high-intent terms: `SOC 2 evidence automation`, `GRC evidence report`, `attestation provenance verifier`, `control mapping evidence`, `audit trail manifest`, and `trust chain signature UI`.
+- Posted two new useful GitHub replies:
+  - `https://github.com/walter-robson/sportsml/issues/31#issuecomment-4737180945`
+  - `https://github.com/stylusnexus/agent-armor/issues/24#issuecomment-4737182178`
+- The replies focused on SOC2 evidence inventory, Type I vs Type II implementation framing, event-record vs evidence-package boundaries, package digests, and no-raw-content audit evidence tests.
+- Conversion note: `pdfe#466` moved to engaged, but still is not qualified because there is no sample artifact or paid review request. The strongest next trigger remains a maintainer sharing a sample result model, evidence package, control matrix, or audit record export.
+
 ## Daily Log Format
 
 Date:
