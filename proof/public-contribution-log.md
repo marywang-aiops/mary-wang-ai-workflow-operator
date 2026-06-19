@@ -934,3 +934,56 @@ Next follow-up:
 
 - Watch for maintainer reply by 2026-06-21.
 - If they share an audit record/export sample or ask for package review, qualify.
+
+## 2026-06-19: GovAI Core PR workflow repair
+
+Link:
+
+- https://github.com/MonikaDvorackova/govai-core/pull/108#issuecomment-4747787668
+
+Status: PR updated after maintainer review
+
+Context:
+
+- The maintainer said the fixture-contract direction is valuable and aligned with the verifier roadmap.
+- The PR could not be merged because it targeted the wrong branch and lacked the required repository workflow artifacts.
+- Mary rebased the branch onto current `staging`, changed the PR base to `staging`, added `docs/reports/audit-export-verifier-fixture-contract.md`, force-pushed with lease, and replied with validation.
+
+Why it matters:
+
+- This turns a failed PR into a better public proof asset instead of abandoning it.
+- It demonstrates that Mary can follow an evidence-heavy contribution workflow, not just write useful comments.
+- It is still not a paid lead or endorsement.
+
+Validation:
+
+- `python scripts/gate_reports.py`
+- `git diff --check upstream/staging...HEAD`
+
+Next follow-up:
+
+- Watch PR #108 checks and review by 2026-06-22.
+- If the maintainer requests narrow changes, address them without expanding scope.
+
+## 2026-06-19: Yuzu SOC2 control matrix comment
+
+Link:
+
+- https://github.com/Tr3kkR/Yuzu/issues/303#issuecomment-4747798112
+
+Status: public comment posted
+
+Context:
+
+- The issue asks for a SOC2 control matrix and evidence index covering Security and Availability trust criteria.
+- Mary replied with a combined control matrix/evidence index row shape, evidence repository naming convention, freshness rules, and generated-governance-agent boundary.
+
+Why it matters:
+
+- This is a high-fit artifact problem: the buyer-shaped deliverable is a control/evidence index, not generic AI automation.
+- It reinforces the narrowed Audit Artifact Review wedge around compliance evidence artifacts.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-22.
+- If they share a matrix draft or evidence index, qualify for Audit Artifact Review.

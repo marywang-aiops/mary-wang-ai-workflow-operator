@@ -178,6 +178,8 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-06-18 | GitHub | https://github.com/marctjones/pdfe/issues/466#issuecomment-4737175012 | Follow-up on signature trust validation release scope, trust-state matrix, and UI overclaim invariant |
 | 2026-06-18 | GitHub | https://github.com/walter-robson/sportsml/issues/31#issuecomment-4737180945 | SOC2 evidence inventory, Type I vs Type II implementation framing, and traceable control evidence |
 | 2026-06-18 | GitHub | https://github.com/stylusnexus/agent-armor/issues/24#issuecomment-4737182178 | Audit event record vs evidence package vs control claim split, package digest, and tamper/no-raw-content tests |
+| 2026-06-19 | GitHub PR | https://github.com/MonikaDvorackova/govai-core/pull/108#issuecomment-4747787668 | Rebased PR to staging, added required audit report, changed PR base to staging, and replied with validation |
+| 2026-06-19 | GitHub | https://github.com/Tr3kkR/Yuzu/issues/303#issuecomment-4747798112 | SOC2 control matrix plus evidence index row shape, evidence repository naming, freshness rules, and generated-finding boundary |
 
 ## Revenue Rule
 
