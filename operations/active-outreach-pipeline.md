@@ -180,6 +180,8 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-06-18 | GitHub | https://github.com/stylusnexus/agent-armor/issues/24#issuecomment-4737182178 | Audit event record vs evidence package vs control claim split, package digest, and tamper/no-raw-content tests |
 | 2026-06-19 | GitHub PR | https://github.com/MonikaDvorackova/govai-core/pull/108#issuecomment-4747787668 | Rebased PR to staging, added required audit report, changed PR base to staging, and replied with validation |
 | 2026-06-19 | GitHub | https://github.com/Tr3kkR/Yuzu/issues/303#issuecomment-4747798112 | SOC2 control matrix plus evidence index row shape, evidence repository naming, freshness rules, and generated-finding boundary |
+| 2026-06-20 | GitHub PR | https://github.com/MonikaDvorackova/govai-core/pull/108#issuecomment-4756014785 | Inspected stale main-target CI failures, pushed trigger commit after staging retarget, and documented action_required workflow blocker |
+| 2026-06-20 | GitHub | https://github.com/dativo-io/talon-www/issues/31#issuecomment-4756017460 | AI audit evidence bundle reviewer-question structure, evidence README fields, and raw-log-only negative example |
 
 ## Revenue Rule
 

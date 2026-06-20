@@ -372,6 +372,30 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
 - Ran the 3-day channel/search-term review. High-precision searches around audit evidence were too narrow today; broader SOC2/control-matrix language produced the only new qualified-topic lead.
 - Conversion note: today improved public proof more than lead volume. GovAI PR #108 remains open-source proof, not a paid lead. The strongest paid trigger remains a maintainer/founder sending a concrete control matrix, evidence index, report, fixture, export, or verifier output.
 
+## 2026-06-20
+
+- Switched active GitHub CLI account to `marywang-aiops` and verified `Erica1018` is not active before external actions.
+- Checked high-value GitHub leads:
+  - `govai-core#108` had new maintainer feedback asking Mary to inspect failing GitHub Actions logs.
+  - The old available failing logs showed stale base-`main` branch-policy failures, not a fresh content/evidence-pack failure against the current staging-targeted PR.
+  - `igentic-iphone#13` was closed by PR #48 after adding stable typed `PolicyDecisionReason` codes aligned with Mary's reason-code suggestion.
+  - No qualified lead, audit offer, payment, or revenue.
+- Updated GovAI Core PR #108:
+  - inspected failing GitHub Actions runs;
+  - confirmed the current PR base is `staging`;
+  - pushed empty trigger commit `cb16a10` to create a fresh PR event after retargeting;
+  - reran `python scripts/gate_reports.py` and `git diff --check upstream/staging...HEAD`;
+  - replied that the fresh remote workflow runs are currently `action_required` and have no logs available yet.
+- Searched high-intent GitHub terms:
+  - `SOC2 evidence index`
+  - `audit evidence bundle`
+  - `verifier reason codes`
+  - `compliance evidence automation`
+- Posted one new useful GitHub reply:
+  - `https://github.com/dativo-io/talon-www/issues/31#issuecomment-4756017460`
+- The reply focused on reviewer-question structure, required evidence handoff README fields, and a raw-log-only negative example for an AI audit evidence bundle page.
+- Conversion note: GovAI remains open-source proof until checks are approved/run. The new `talon-www#31` lead is closer to buyer education, but still needs a concrete sample bundle, template, or review artifact before any RMB 699 audit offer.
+
 ## Daily Log Format
 
 Date:

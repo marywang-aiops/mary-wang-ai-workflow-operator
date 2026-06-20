@@ -987,3 +987,81 @@ Next follow-up:
 
 - Watch for maintainer reply by 2026-06-22.
 - If they share a matrix draft or evidence index, qualify for Audit Artifact Review.
+
+## 2026-06-20: GovAI Core CI log follow-up
+
+Link:
+
+- https://github.com/MonikaDvorackova/govai-core/pull/108#issuecomment-4756014785
+
+Status: PR follow-up posted after maintainer asked for remote check investigation
+
+Context:
+
+- The maintainer asked Mary to inspect required GitHub Actions failures on PR #108.
+- Mary opened the available failing logs and found they came from the old PR event that still evaluated the PR as base `main`.
+- The current PR now targets `staging`, so Mary pushed empty trigger commit `cb16a10` to create a fresh PR event.
+- The new runs for `cb16a10` are `action_required`, and logs are not available yet.
+
+Why it matters:
+
+- This is public proof of operational follow-through, not just writing advice.
+- It shows Mary can distinguish stale CI failures from current content errors and avoid making unnecessary code changes.
+- It is still open-source proof only, not a paid client or endorsement.
+
+Validation:
+
+- `python scripts/gate_reports.py`
+- `git diff --check upstream/staging...HEAD`
+
+Next follow-up:
+
+- Wait for maintainer approval or fresh remote logs.
+- If the new checks run and fail, inspect exact logs before changing the PR.
+
+## 2026-06-20: igentic policy reason-code acceptance
+
+Link:
+
+- https://github.com/pokekarten/igentic-iphone/issues/13
+
+Status: issue closed by maintainer implementation after Mary's public comment
+
+Context:
+
+- Mary suggested a stable policy-decision shape with explicit reason codes and smoke tests.
+- The maintainer closed the issue through PR #48, adding typed `PolicyDecisionReason` coverage for local-only delegation blocking, restricted-data automation denial, cloud escalation blocking, tool unavailable, tool error, and success fallback.
+
+Why it matters:
+
+- This is another public proof point that Mary's artifact-contract suggestions can be implemented by maintainers.
+- It supports the narrowed positioning around reason-code contracts and verifier output clarity.
+- It is not a paid lead.
+
+Next follow-up:
+
+- Use this as proof when explaining reason-code review capability.
+- Do not pitch unless the maintainer asks for another artifact review.
+
+## 2026-06-20: Talon academy AI audit evidence bundle comment
+
+Link:
+
+- https://github.com/dativo-io/talon-www/issues/31#issuecomment-4756017460
+
+Status: public comment posted
+
+Context:
+
+- The issue is a buyer-facing academy page on preparing AI audit evidence bundles for CTOs, DPOs, founders, security leads, and sales engineering.
+- Mary replied with four reviewer questions, required evidence handoff README fields, and a raw-log-only negative example.
+
+Why it matters:
+
+- This is closer to the commercial buyer language than many low-level engineering issues.
+- It reinforces the Audit Artifact Review offer around concrete bundle structure, scope, evidence, limitations, and reviewer usability.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-23.
+- Qualify only if they share a sample bundle, page draft, template, or review artifact.
