@@ -1065,3 +1065,49 @@ Next follow-up:
 
 - Watch for maintainer reply by 2026-06-23.
 - Qualify only if they share a sample bundle, page draft, template, or review artifact.
+
+## 2026-06-21: DevSecOps evidence bundle generator comment
+
+Link:
+
+- https://github.com/mason5052/production-kubernetes-devops-platform/issues/5#issuecomment-4760617023
+
+Status: public comment posted
+
+Context:
+
+- The issue asks for an evidence bundle generator example covering deployment, scan, approval, and rollout records.
+- Mary replied with a concrete bundle folder layout, manifest schema, README requirements, sensitive-field exclusions, and verification tests.
+
+Why it matters:
+
+- This is directly aligned with the Audit Artifact Review offer: the buyer-shaped deliverable is a reviewable evidence package, not raw logs.
+- It demonstrates how Mary turns a broad DevSecOps evidence request into a concrete schema plus acceptance tests.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-24.
+- Qualify only if they ask for schema review, example bundle, or generator implementation help.
+
+## 2026-06-21: Domits Airbnb compliance evidence matrix comment
+
+Link:
+
+- https://github.com/domits1/Domits/issues/3090#issuecomment-4760617580
+
+Status: public comment posted
+
+Context:
+
+- The issue describes an Airbnb certification and security compliance program with continuous evidence readiness.
+- Mary replied by recommending an evidence matrix before a dashboard, including a row shape, repository structure, readiness score guardrails, and a five-control evidence test.
+
+Why it matters:
+
+- This is a stronger commercial-context proof point because the issue is tied to API certification, partner trust, and recurring security reviews.
+- It supports Mary positioning around control/evidence matrices and customer-review readiness.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-24.
+- Qualify if they share an evidence matrix, dashboard draft, or readiness artifact.

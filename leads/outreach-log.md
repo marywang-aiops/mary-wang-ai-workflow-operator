@@ -396,6 +396,28 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
 - The reply focused on reviewer-question structure, required evidence handoff README fields, and a raw-log-only negative example for an AI audit evidence bundle page.
 - Conversion note: GovAI remains open-source proof until checks are approved/run. The new `talon-www#31` lead is closer to buyer education, but still needs a concrete sample bundle, template, or review artifact before any RMB 699 audit offer.
 
+## 2026-06-21
+
+- Initial `gh auth status` showed `Erica1018` had become the active GitHub CLI account, so Mary stopped before any external write and switched active account back to `marywang-aiops`.
+- Checked high-value and due GitHub leads:
+  - `govai-core#108` still has no new maintainer reply and fresh runs for `cb16a10` remain `action_required`, so no fresh remote logs are available.
+  - `talon-www#31`, `pdfe#466`, `sportsml#31`, `agent-armor#24`, and `agent-bom#2929` have no new maintainer replies after Mary's latest comments.
+  - No qualified lead, audit offer, payment, or revenue.
+- Searched high-intent GitHub terms:
+  - `evidence bundle generator`
+  - `deployment evidence bundle`
+  - `audit log redaction`
+  - `SOC2 readiness evidence`
+  - `security evidence package`
+  - `customer security evidence AI`
+  - `control evidence matrix`
+- Avoided duplicative OpenClaw comments because the current issues already have detailed ClawSweeper reviews and another Mary comment would likely be repetitive.
+- Posted two new useful GitHub replies:
+  - `https://github.com/mason5052/production-kubernetes-devops-platform/issues/5#issuecomment-4760617023`
+  - `https://github.com/domits1/Domits/issues/3090#issuecomment-4760617580`
+- The replies focused on evidence bundle schema, manifest verification, sensitive-field exclusions, Airbnb/compliance evidence matrix rows, evidence repository organization, and readiness score guardrails.
+- Conversion note: today's best targets are more commercial than generic engineering issues, but still no concrete artifact handoff. Do not quote RMB 699 until someone shares an evidence bundle, matrix, dashboard draft, or review artifact.
+
 ## Daily Log Format
 
 Date:
