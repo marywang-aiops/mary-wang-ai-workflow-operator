@@ -418,6 +418,37 @@ Use this file for short daily notes. Put structured lead details in `lead-tracke
 - The replies focused on evidence bundle schema, manifest verification, sensitive-field exclusions, Airbnb/compliance evidence matrix rows, evidence repository organization, and readiness score guardrails.
 - Conversion note: today's best targets are more commercial than generic engineering issues, but still no concrete artifact handoff. Do not quote RMB 699 until someone shares an evidence bundle, matrix, dashboard draft, or review artifact.
 
+## 2026-06-22
+
+- Initial `gh auth status` again showed `Erica1018` active, so Mary switched active GitHub CLI account back to `marywang-aiops` before any external write.
+- Checked high-value GitHub leads:
+  - `govai-core#108` was approved and merged after all required remote checks passed. The maintainer thanked Mary, called the fixture contract valuable, and invited a follow-up PR for #110.
+  - `talon-www#31`, `production-kubernetes-devops-platform#5`, `Domits#3090`, `Yuzu#303`, `sportsml#31`, `agent-armor#24`, and `pdfe#466` had no new qualified artifact handoff yet.
+  - No qualified lead, audit offer, payment, or revenue.
+- Posted one relationship-maintenance follow-up on merged GovAI PR #108:
+  - `https://github.com/MonikaDvorackova/govai-core/pull/108#issuecomment-4764085720`
+- Searched and reviewed high-intent GitHub terms:
+  - `vendor security questionnaire evidence`
+  - `security questionnaire evidence`
+  - `customer security review evidence`
+  - `audit evidence dashboard`
+  - `compliance readiness dashboard`
+  - `evidence matrix compliance`
+  - `security compliance dashboard`
+  - `SOC 2 evidence`
+  - `audit readiness`
+  - `evidence repository compliance`
+- 3-day channel/search-term review:
+  - GitHub remains the only channel producing trackable proof and replies.
+  - Pure `vendor security questionnaire` searches were too sparse.
+  - Better terms today were `audit evidence dashboard`, `security compliance dashboard`, `SOC 2 evidence`, and `audit readiness`.
+  - Avoid automated failure issues unless they include a human-owned artifact or clear remediation context.
+- Posted two new useful GitHub replies:
+  - `https://github.com/dativo-io/talon-www/issues/27#issuecomment-4764089302`
+  - `https://github.com/DomnicAmalan/MedBrains/issues/1265#issuecomment-4764090131`
+- The replies focused on AI traffic monitoring vs audit evidence, security/evidence dashboard views, evidence-export alerts, multi-standard compliance evidence reuse, RLS/PHI guardrails, and strictest-framework freshness rules.
+- Conversion note: GovAI is now the strongest public proof asset, but it is still open-source contribution proof, not revenue. The best revenue path remains converting commercial evidence/dashboard leads after they share a concrete artifact.
+
 ## Daily Log Format
 
 Date:

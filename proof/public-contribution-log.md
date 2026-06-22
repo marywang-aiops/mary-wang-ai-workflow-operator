@@ -1111,3 +1111,84 @@ Next follow-up:
 
 - Watch for maintainer reply by 2026-06-24.
 - Qualify if they share an evidence matrix, dashboard draft, or readiness artifact.
+
+## 2026-06-22: GovAI Core fixture contract PR merged
+
+Link:
+
+- https://github.com/MonikaDvorackova/govai-core/pull/108
+
+Status: merged public contribution
+
+Context:
+
+- Mary created and maintained PR #108 for the signed audit export verifier fixture contract.
+- The PR initially needed workflow repair: target `staging`, required audit report, and remote compliance/evidence-pack checks.
+- Mary rebased, added the required report, inspected stale base-`main` failures, triggered fresh checks, and waited for maintainer workflow approval.
+- On 2026-06-21, all required remote checks passed and the maintainer merged the PR.
+- The maintainer described the fixture contract as valuable for verifier standardization, compatibility testing, and future integration work, and invited follow-up implementation alignment in #110.
+
+Why it matters:
+
+- This is Mary's strongest public proof so far: a real maintainer reviewed and merged a scoped audit/verifier artifact contribution.
+- It demonstrates workflow follow-through, CI diagnosis, report-gate compliance, and artifact-contract thinking.
+- It is still not a paid client, testimonial, or revenue.
+
+Validation:
+
+- PR branch policy: success
+- compliance checks: success, including `report_gate`, `report_content`, `make_verify`, and `evidence_pack`
+- govai-ci: success
+- security-scan: success
+- supply-chain-audit: success
+
+Next follow-up:
+
+- Consider a follow-up PR for #110 only if it strengthens proof without displacing commercial outreach.
+- Use this as proof when explaining Audit Artifact Review capability.
+
+## 2026-06-22: Talon AI traffic monitoring evidence-view comment
+
+Link:
+
+- https://github.com/dativo-io/talon-www/issues/27#issuecomment-4764089302
+
+Status: public comment posted
+
+Context:
+
+- The issue is a buyer-education page about monitoring AI traffic in production.
+- Mary replied with a dashboard split for CTO summary, operator drill-down, and security/evidence view, plus sample alerts.
+
+Why it matters:
+
+- It connects observability to reviewable evidence, which is closer to the paid audit artifact positioning than generic monitoring advice.
+- It reinforces the distinction between fast operational dashboards and stable audit evidence exports.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-25.
+- Qualify only if they ask for a dashboard spec, metrics checklist, or evidence export review.
+
+## 2026-06-22: MedBrains multi-standard compliance dashboard comment
+
+Link:
+
+- https://github.com/DomnicAmalan/MedBrains/issues/1265#issuecomment-4764090131
+
+Status: public comment posted
+
+Context:
+
+- The issue asks for a healthcare compliance dashboard across NABH, HIPAA, ISO, and CERT-In.
+- Mary replied with a reusable evidence row shape, Given/When/Then acceptance cases, RLS/PHI visibility guardrails, and strictest-framework freshness rule.
+
+Why it matters:
+
+- This is a strong fit for Mary because multi-standard dashboards often fail when evidence freshness, tenant scope, PHI exposure, and cross-framework reuse are not explicit.
+- It supports Mary positioning around compliance evidence matrix review.
+
+Next follow-up:
+
+- Watch for maintainer reply by 2026-06-25.
+- Qualify if they share dashboard schema, evidence matrix, or ask for artifact review.

@@ -184,6 +184,9 @@ If you want a second pair of eyes, email 939172168@qq.com with one sample input 
 | 2026-06-20 | GitHub | https://github.com/dativo-io/talon-www/issues/31#issuecomment-4756017460 | AI audit evidence bundle reviewer-question structure, evidence README fields, and raw-log-only negative example |
 | 2026-06-21 | GitHub | https://github.com/mason5052/production-kubernetes-devops-platform/issues/5#issuecomment-4760617023 | DevSecOps evidence bundle layout, manifest schema, sensitive-field exclusions, and verification tests |
 | 2026-06-21 | GitHub | https://github.com/domits1/Domits/issues/3090#issuecomment-4760617580 | Airbnb security compliance evidence matrix, evidence repository structure, and readiness score guardrails |
+| 2026-06-22 | GitHub PR | https://github.com/MonikaDvorackova/govai-core/pull/108#issuecomment-4764085720 | Thanked maintainer after PR #108 merge and scoped possible follow-up to verifier contract issue #110 |
+| 2026-06-22 | GitHub | https://github.com/dativo-io/talon-www/issues/27#issuecomment-4764089302 | AI traffic monitoring dashboard split across CTO summary, operator drill-down, and security/evidence view |
+| 2026-06-22 | GitHub | https://github.com/DomnicAmalan/MedBrains/issues/1265#issuecomment-4764090131 | Multi-standard healthcare compliance dashboard evidence reuse, RLS/PHI guardrails, and freshness rules |
 
 ## Revenue Rule
 
