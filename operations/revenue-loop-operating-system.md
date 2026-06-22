@@ -4,7 +4,7 @@ This is the operating system for turning Mary Wang from a static identity into a
 
 North star:
 
-> One paid AI Workflow Audit first, then convert the audit into a Mini Automation Build.
+> One paid Evidence Pack Triage first, then convert the triage into an Audit Artifact Review or Mini Automation Build.
 
 ## Funnel
 
@@ -13,10 +13,10 @@ Community problem found
   -> useful public reply
   -> profile / checklist visit
   -> email inquiry
-  -> workflow sample received
-  -> RMB 699 audit offered
+  -> concrete sample artifact received
+  -> RMB 399 first-client triage or RMB 699 audit offered
   -> payment received
-  -> audit delivered
+  -> triage or audit delivered
   -> mini-build quoted
 ```
 
@@ -29,7 +29,9 @@ Use these exact statuses in `leads/lead-tracker.csv`.
 | `sourced` | Found a relevant conversation, no reply yet | Decide whether to reply |
 | `commented` | Mary left a useful public reply | Check for response in 24-48h |
 | `engaged` | Someone replied, liked, or asked follow-up | Ask for one input sample and desired output |
+| `sample-requested` | Mary asked for one concrete artifact sample | Follow up once after 48h |
 | `qualified` | Person described a real workflow problem | Send audit scope confirmation |
+| `triage-offered` | RMB 399 Evidence Pack Triage was offered | Follow up once after 24h |
 | `audit-offered` | RMB 699 audit was offered | Follow up once after 24h |
 | `paid` | Payment received | Deliver audit within 48h |
 | `delivered` | Audit delivered | Ask about mini build |
@@ -44,15 +46,21 @@ Every day at 10:00:
 1. Check existing leads for replies.
 2. Follow up only when there is a real reason.
 3. Find 10 relevant conversations.
-4. Leave 5 useful comments or replies.
-5. Record all actions in `leads/lead-tracker.csv`.
-6. Add a short note to `leads/outreach-log.md`.
+4. Leave useful comments only when the thread has a buyer-like artifact problem.
+5. Make at least one direct conversion action:
+   - ask an engaged lead for one concrete sample artifact;
+   - offer RMB 399 Evidence Pack Triage after a real sample appears;
+   - prepare or publish a platform listing that sells the triage;
+   - follow up on a buyer-like artifact thread with a specific sample request.
+6. Record all actions in `leads/lead-tracker.csv`.
+7. Add a short note to `leads/outreach-log.md`.
 
 Minimum daily output:
 
 - 10 sourced conversations
-- 5 useful public replies
+- 2 useful public replies or direct conversion actions
 - 1 Chinese post/comment draft or published comment
+- 1 sample request, triage offer, or marketplace/profile setup action
 - 0 fake claims
 - 0 low-value link drops
 
@@ -71,6 +79,7 @@ Decision rules:
 - If a reply gets engagement, turn it into a reusable content asset.
 - If a channel produces no engaged leads after 15 useful replies, reduce effort by half.
 - If a channel produces qualified leads, double the reply volume there.
+- If public proof grows but sample requests stay at zero, reduce public-comment volume and increase direct sample asks.
 
 ## Seven-Day Review
 
@@ -111,7 +120,7 @@ If no qualified leads:
 If qualified leads but no payment:
 
 - Add a better sample audit.
-- Offer first-client price: RMB 399 for anonymized case study permission.
+- Offer Evidence Pack Triage: RMB 399 for anonymized case study permission.
 - Shorten scope to a 24-hour mini audit.
 
 If payment:
@@ -137,10 +146,10 @@ Decision:
 
 ## Offer Ladder
 
-1. Free public checklist.
-2. RMB 699 AI Workflow Audit.
-3. RMB 1999-4999 Mini Automation Build.
-4. RMB 6999+ Monthly AI Ops Retainer.
+1. Free public checklist or proof log.
+2. RMB 399 Evidence Pack Triage for first-client case study.
+3. RMB 699 Audit Artifact Review or AI Workflow Audit.
+4. RMB 1999-4999 Mini Automation Build.
+5. RMB 6999+ Monthly AI Ops Retainer.
 
 Do not push the higher offer until the user has a clear workflow and has seen useful work.
-

@@ -1,6 +1,30 @@
 # Pricing
 
-## 1. Audit Artifact Review
+## 1. Evidence Pack Triage
+
+First-client price: RMB 399
+
+Standard price: USD 99 / RMB 699
+
+Delivery: 24 hours
+
+Best for: one concrete evidence matrix, audit dashboard, control evidence index, customer security checklist, evidence bundle, audit export, or reviewer package
+Payment: WeChat Pay or Alipay after scope confirmation by email
+
+First-client condition:
+
+- RMB 399 applies only when the buyer allows an anonymized before/after case study.
+
+Deliverables:
+
+- What the artifact currently proves
+- What the artifact does not prove
+- Missing or ambiguous fields
+- Reviewer-risk list
+- Recommended next artifact shape
+- Smallest useful build or cleanup task
+
+## 2. Audit Artifact Review
 
 Price: USD 99 / RMB 699
 
@@ -18,7 +42,7 @@ Deliverables:
 - Human handoff checklist
 - Smallest next build
 
-## 2. AI Workflow Audit
+## 3. AI Workflow Audit
 
 Price: USD 99 / RMB 699  
 Delivery: 48 hours  
@@ -33,7 +57,7 @@ Deliverables:
 - Recommended first build
 - Plain-language setup notes
 
-## 3. Mini Automation Build
+## 4. Mini Automation Build
 
 Price: USD 299-699 / RMB 1999-4999  
 Delivery: 3-7 days  
@@ -56,7 +80,7 @@ Deliverables:
 - One revision pass
 - Basic smoke test evidence
 
-## 4. Monthly AI Ops Retainer
+## 5. Monthly AI Ops Retainer
 
 Price: RMB 6999+ per month  
 Best for: teams that need ongoing AI workflow maintenance
@@ -73,8 +97,8 @@ Possible scope:
 
 ## Discount Policy
 
-No public discount by default. If needed, use a first-client discount in exchange for permission to publish an anonymized case study.
+No broad public discount by default. Use the RMB 399 Evidence Pack Triage only for a real first-client case study.
 
 Example:
 
-> First-client price: RMB 399 for the AI Workflow Audit if Mary can publish an anonymized before/after case study.
+> First-client price: RMB 399 for Evidence Pack Triage if Mary can publish an anonymized before/after case study.

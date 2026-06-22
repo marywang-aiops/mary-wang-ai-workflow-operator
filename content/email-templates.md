@@ -2,6 +2,38 @@
 
 Use these templates to convert interest into a paid Audit Artifact Review or AI Workflow Audit.
 
+## -1. Evidence Pack Triage - First-Client Offer
+
+Subject:
+
+`Evidence Pack Triage - Scope`
+
+Body:
+
+```text
+Hi,
+
+This looks like a fit for a small Evidence Pack Triage.
+
+Please send one redacted sample:
+
+1. Evidence matrix, dashboard screenshot, checklist, report, audit export, or evidence bundle.
+2. Who will review it: customer, auditor, security team, DPO, founder, CI, or internal team.
+3. What decision it should support: pass/fail, green/amber/red, approve/block, readiness score, or customer review.
+4. Any sensitive fields that are removed or anonymized.
+
+First-client price:
+RMB 399 if you allow an anonymized before/after case study.
+
+Delivery:
+Within 24 hours after scope and payment are confirmed.
+
+Payment:
+WeChat Pay or Alipay is available after I confirm the scope.
+
+Mary Wang
+```
+
 ## 0. Audit Artifact Review - First Reply To Qualified Lead
 
 Subject:

@@ -13,22 +13,27 @@ Live links:
 - GitHub: [marywang-aiops/mary-wang-ai-workflow-operator](https://github.com/marywang-aiops/mary-wang-ai-workflow-operator)
 - Service page: [Mary Wang AI Workflow Audit](https://marywang-aiops.github.io/mary-wang-ai-workflow-operator/)
 - Public contribution log: [proof/public-contribution-log.md](proof/public-contribution-log.md)
+- GovAI before/after proof: [proof/govai-core-fixture-contract-before-after.md](proof/govai-core-fixture-contract-before-after.md)
 
 ![Mary Wang service page preview](site/preview-desktop.png)
 
 ## First Paid Offer
 
-**Audit Artifact Review**
+**Evidence Pack Triage**
 
-Price: USD 99 / RMB 699
+First-client price: RMB 399
 
-Delivery: 48 hours after receiving the materials
+Standard price: USD 99 / RMB 699
+
+Delivery: 24 hours after receiving confirmed materials and payment
 
 Contact: [939172168@qq.com](mailto:939172168@qq.com)
 
-Best for audit manifests, review-gate docs, workflow handoff artifacts, and machine-readable audit output.
+Best for evidence matrices, audit dashboards, SOC2/control evidence indexes, customer security review checklists, compliance evidence packages, audit exports, and reviewer packages.
 
 Payment is available by WeChat Pay or Alipay after scope confirmation. QR codes are sent by email and are not published in this repository.
+
+Public proof now includes merged external contributions such as GovAI Core PR #108 and ProofPath PR #164. These are proof of scoped audit/evidence artifact work, not testimonials or paid client claims.
 
 ## What Is Inside
 
@@ -40,6 +45,7 @@ Payment is available by WeChat Pay or Alipay after scope confirmation. QR codes 
 - `operations/`: 14-day revenue sprint and weekly review system
 - `operations/active-outreach-pipeline.md`: daily proactive community outreach system
 - `operations/revenue-loop-operating-system.md`: full funnel, review cadence, and pivot rules
+- `operations/revenue-pivot-2026-06-22.md`: current pivot from broad public commenting to direct sample requests and RMB 399 triage
 - `projects/openclaw-skills/`: safe AI workflow audit skill template
 - `site/`: static service page that can be opened directly in a browser
 - `accounts/`: platform setup guides and profile copy
@@ -52,12 +58,14 @@ Payment is available by WeChat Pay or Alipay after scope confirmation. QR codes 
 3. Share `proof/ai-workflow-audit-checklist.md` as the first useful public asset.
 4. Share `proof/sample-ai-workflow-audit.md` when a buyer asks what they will receive.
 5. Share `proof/before-after-ai-workflow-audit-example.md` when someone needs a before/after example.
-6. Share `proof/public-contribution-log.md` when someone asks for public proof.
-7. Start tracking outreach in `leads/lead-tracker.csv`.
-8. Use `operations/revenue-loop-operating-system.md` as the revenue loop source of truth.
-9. Use `content/email-templates.md` to convert interest into a paid audit.
-10. Use `operations/14-day-revenue-sprint.md` as the daily work plan.
-11. Follow `accounts/github-setup.md` before publishing. Do not use the `Erica1018` GitHub account.
+6. Share `proof/govai-core-fixture-contract-before-after.md` when someone asks for proof of artifact review work.
+7. Share `proof/public-contribution-log.md` when someone wants the full public proof trail.
+8. Start tracking outreach in `leads/lead-tracker.csv`.
+9. Use `operations/revenue-loop-operating-system.md` as the revenue loop source of truth.
+10. Use `content/email-templates.md` to convert interest into a paid audit.
+11. Use `content/direct-conversion-templates.md` when a lead has a real artifact or dashboard.
+12. Use `operations/revenue-pivot-2026-06-22.md` as the current operating plan.
+13. Follow `accounts/github-setup.md` before publishing. Do not use the `Erica1018` GitHub account.
 
 ## Rules
 
