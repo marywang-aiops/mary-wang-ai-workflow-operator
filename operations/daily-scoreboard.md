@@ -31,6 +31,7 @@ Use one row per day.
 | 2026-06-21 | 28 | 2 | 10 | 0 | 0 | 0 | 0 | GitHub | Switched gh back to Mary before writes; best new targets are evidence-bundle generator and Airbnb compliance readiness, but no artifact handoff yet |
 | 2026-06-22 | 36 | 3 | 10 | 0 | 0 | 0 | 0 | GitHub | 3-day review: GovAI PR merged as strongest proof; shift searches from sparse vendor-questionnaire terms to audit evidence dashboard, SOC2 evidence, and audit readiness |
 | 2026-06-23 | 14 | 1 | 10 | 0 | 0 | 0 | 0 | GitHub | Found gh active on Erica1018 and switched back to Mary before external action; first post-pivot sample-request sent to an audit trail/evidence export issue |
+| 2026-06-24 | 6 | 1 | 10 | 0 | 0 | 0 | 0 | GitHub | Weekly review day: gh again started on Erica1018 and was switched to Mary; second direct sample-request sent to Firecrawl SOC2/Vanta/Drata export issue |
 
 ## Daily Review Questions
 
